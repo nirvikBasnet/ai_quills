@@ -18,6 +18,12 @@ drawable gallery
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable icons8_add_image_90___
+drawable icons8_google_144___
+drawable icons8_google_192___
+drawable icons8_google_36___
+drawable icons8_google_48___
+drawable icons8_google_72___
+drawable icons8_google_96___
 drawable photo
 drawable programming
 mipmap ic_launcher

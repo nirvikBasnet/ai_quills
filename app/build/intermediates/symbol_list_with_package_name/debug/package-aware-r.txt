@@ -147,6 +147,12 @@ drawable ic_other_sign_in
 drawable ic_passkey
 drawable ic_password
 drawable icons8_add_image_90___
+drawable icons8_google_144___
+drawable icons8_google_192___
+drawable icons8_google_36___
+drawable icons8_google_48___
+drawable icons8_google_72___
+drawable icons8_google_96___
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low

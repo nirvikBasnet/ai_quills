@@ -1,126 +1,150 @@
 [
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/drawable-ldpi_add_image_23___.png.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/drawable-ldpi/add_image_23___.png"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/drawable_photo.png.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/drawable/photo.png"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/drawable_programming.png.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/drawable/programming.png"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/drawable-mdpi_add_image_30___.png.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/drawable-mdpi/add_image_30___.png"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/mipmap-xhdpi/ic_launcher_foreground.webp"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/mipmap-xxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/drawable-xhdpi_add_image_60___.png.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/drawable-xhdpi/add_image_60___.png"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/drawable/ic_launcher_foreground.xml"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/mipmap-hdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/drawable_gallery.png.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/drawable/gallery.png"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/xml_backup_rules.xml.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/xml/backup_rules.xml"
+        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/drawable-mdpi_icons8_google_48___.png.flat",
+        "source": "com.nirviklabs.aiquills.app-main-63:/drawable-mdpi/icons8_google_48___.png"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/drawable-hdpi_add_image_45___.png.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/drawable-hdpi/add_image_45___.png"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/mipmap-mdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/xml_data_extraction_rules.xml.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/xml/data_extraction_rules.xml"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/mipmap-hdpi/ic_launcher_foreground.webp"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/drawable_programming.png.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/drawable/programming.png"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/drawable/ic_launcher_background.xml"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/drawable-hdpi_add_image_45___.png.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/drawable-hdpi/add_image_45___.png"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/drawable-xxxhdpi_icons8_google_192___.png.flat",
+        "source": "com.nirviklabs.aiquills.app-main-63:/drawable-xxxhdpi/icons8_google_192___.png"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/drawable-xxhdpi_icons8_add_image_90___.png.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/drawable-xxhdpi/icons8_add_image_90___.png"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/drawable_chat.png.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/drawable/chat.png"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/drawable_photo.png.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/drawable/photo.png"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/mipmap-xhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/drawable_ai_write.png.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/drawable/ai_write.png"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/mipmap-mdpi/ic_launcher_foreground.webp"
+        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/drawable-xhdpi_icons8_google_96___.png.flat",
+        "source": "com.nirviklabs.aiquills.app-main-63:/drawable-xhdpi/icons8_google_96___.png"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/drawable-xxhdpi_icons8_google_144___.png.flat",
+        "source": "com.nirviklabs.aiquills.app-main-63:/drawable-xxhdpi/icons8_google_144___.png"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/drawable_gallery.png.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/drawable/gallery.png"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/drawable-xhdpi_add_image_60___.png.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/drawable-xhdpi/add_image_60___.png"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/drawable_chat.png.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/drawable/chat.png"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/drawable-ldpi_add_image_23___.png.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/drawable-ldpi/add_image_23___.png"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/drawable-mdpi_add_image_30___.png.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/drawable-mdpi/add_image_30___.png"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/drawable-xxhdpi_icons8_add_image_90___.png.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/drawable-xxhdpi/icons8_add_image_90___.png"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/drawable-ldpi_icons8_google_36___.png.flat",
+        "source": "com.nirviklabs.aiquills.app-main-63:/drawable-ldpi/icons8_google_36___.png"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.nirviklabs.aiquills.app-main-63:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.nirviklabs.aiquills.app-merged_res-61:/drawable-hdpi_icons8_google_72___.png.flat",
+        "source": "com.nirviklabs.aiquills.app-main-63:/drawable-hdpi/icons8_google_72___.png"
+    },
+    {
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/xml_backup_rules.xml.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-merged_res-61:/drawable_ai_write.png.flat",
+        "source": "/Users/nirvikbasnet/.gradle/daemon/8.4/com.nirviklabs.aiquills.app-main-63:/drawable/ai_write.png"
     }
 ]

@@ -146,6 +146,12 @@ int drawable ic_other_sign_in 0x7f060026
 int drawable ic_passkey 0x7f060027
 int drawable ic_password 0x7f060028
 int drawable icons8_add_image_90___ 0x7f060029
+int drawable icons8_google_144___ 0x7f060039
+int drawable icons8_google_192___ 0x7f06003a
+int drawable icons8_google_36___ 0x7f06003b
+int drawable icons8_google_48___ 0x7f06003c
+int drawable icons8_google_72___ 0x7f06003d
+int drawable icons8_google_96___ 0x7f06003e
 int drawable notification_action_background 0x7f06002a
 int drawable notification_bg 0x7f06002b
 int drawable notification_bg_low 0x7f06002c

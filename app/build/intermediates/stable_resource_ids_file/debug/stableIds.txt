@@ -1,3 +1,8 @@
+com.nirviklabs.aiquills:drawable/icons8_google_96___ = 0x7f06003e
+com.nirviklabs.aiquills:drawable/icons8_google_72___ = 0x7f06003d
+com.nirviklabs.aiquills:drawable/icons8_google_48___ = 0x7f06003c
+com.nirviklabs.aiquills:drawable/icons8_google_36___ = 0x7f06003b
+com.nirviklabs.aiquills:drawable/icons8_google_144___ = 0x7f060039
 com.nirviklabs.aiquills:string/project_id = 0x7f0c0064
 com.nirviklabs.aiquills:style/DialogWindowTheme = 0x7f0d0000
 com.nirviklabs.aiquills:string/time_picker_hour = 0x7f0c0074
@@ -305,6 +310,7 @@ com.nirviklabs.aiquills:id/browser_actions_menu_items = 0x7f07002f
 com.nirviklabs.aiquills:drawable/ic_call_answer = 0x7f06001e
 com.nirviklabs.aiquills:string/common_google_play_services_update_button = 0x7f0c0021
 com.nirviklabs.aiquills:attr/uri = 0x7f03002c
+com.nirviklabs.aiquills:drawable/icons8_google_192___ = 0x7f06003a
 com.nirviklabs.aiquills:drawable/notification_template_icon_low_bg = 0x7f060034
 com.nirviklabs.aiquills:layout/notification_template_icon_group = 0x7f090008
 com.nirviklabs.aiquills:drawable/notification_tile_bg = 0x7f060035

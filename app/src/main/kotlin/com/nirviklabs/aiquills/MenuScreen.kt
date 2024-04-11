@@ -84,7 +84,9 @@ fun MenuScreen(
                     actionIconContentColor = MaterialTheme.colorScheme.onSecondary
                 ),
                 actions = {
-                    IconButton(onClick = {  }) {
+                    IconButton(onClick = {
+                        onItemClicked("profile")
+                    }) {
                         Icon(
                             Icons.Filled.Person,
                             contentDescription = "Settings"

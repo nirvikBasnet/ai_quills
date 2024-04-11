@@ -40,8 +40,10 @@ import androidx.compose.ui.graphics.Color
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
+import com.google.firebase.auth.FirebaseAuth
 import com.nirviklabs.aiquills.feature.chat.ChatRoute
 import com.nirviklabs.aiquills.feature.multimodal.PhotoReasoningRoute
+import com.nirviklabs.aiquills.feature.signin.ProfileScreen
 import com.nirviklabs.aiquills.feature.signin.SignInScreen
 import com.nirviklabs.aiquills.feature.text.SummarizeRoute
 import com.nirviklabs.aiquills.ui.theme.GenerativeAISample
@@ -85,7 +87,21 @@ class MainActivity : ComponentActivity() {
                                 ChatRoute()
                             }
                             composable("signin"){
-                                SignInScreen()
+                                if(FirebaseAuth.getInstance().currentUser == null){
+                                    SignInScreen(onItemClicked = { routeId ->
+                                        navController.navigate(routeId)
+                                    })
+                                }else{
+                                    MenuScreen(onItemClicked = { routeId ->
+                                        navController.navigate(routeId)
+                                    })
+                                }
+
+                            }
+                            composable("profile"){
+                                ProfileScreen(onItemClicked = { routeId ->
+                                    navController.navigate(routeId)
+                                })
                             }
                         }
                     }
