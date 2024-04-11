@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "257974050116",
+    "project_id": "ai-quills-e1696",
+    "storage_bucket": "ai-quills-e1696.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257974050116:android:9a2fbc81c576bd09dc4b11",
+        "android_client_info": {
+          "package_name": "com.nirviklabs.aiquills"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257974050116-s6okk0mlus0ikothhapokctcsho631n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nirviklabs.aiquills",
+            "certificate_hash": "f5209192242450a8fe695dfd6d9081c6d48d1315"
+          }
+        },
+        {
+          "client_id": "257974050116-t9eucr7t0h2gkbejo1e68ug1378ltaf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq_n6CUjVpppuQplggMqhvBfk4HPDDz9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257974050116-t9eucr7t0h2gkbejo1e68ug1378ltaf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
