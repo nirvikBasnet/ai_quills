@@ -70,6 +70,7 @@ import coil.request.SuccessResult
 import com.nirviklabs.aiquills.GenerativeViewModelFactory
 import coil.size.Precision
 import com.nirviklabs.aiquills.R
+import com.nirviklabs.aiquills.util.AdmobBanner
 import com.nirviklabs.aiquills.util.UriSaver
 import kotlinx.coroutines.launch
 
@@ -132,6 +133,7 @@ fun PhotoReasoningScreen(
             .padding(all = 16.dp)
             .verticalScroll(rememberScrollState())
     ) {
+        AdmobBanner()
         Card(
             modifier = Modifier.fillMaxWidth()
         ) {
@@ -175,7 +177,7 @@ fun PhotoReasoningScreen(
                             .padding(all = 4.dp)
                             .align(Alignment.CenterVertically)
                     ) {
-                        Text(stringResource(R.string.action_go))
+                        Text("Go")
                     }
                 }
             }

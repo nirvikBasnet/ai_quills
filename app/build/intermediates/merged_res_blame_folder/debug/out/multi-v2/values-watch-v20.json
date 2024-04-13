@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.nirviklabs.aiquills.app-mergeDebugResources-59:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.nirviklabs.aiquills.app-mergeDebugResources-67:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "/Users/nirvikbasnet/.gradle/caches/transforms-3/41805f75fa4e25da890184ef8696dae8/transformed/play-services-auth-21.0.0/res/values-watch-v20/values.xml",

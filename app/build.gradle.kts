@@ -78,9 +78,16 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
 
+    //generativeai
     implementation("com.google.ai.client.generativeai:generativeai:0.2.2")
 
+    //firebase google auth
     implementation ("androidx.credentials:credentials:1.2.2")
     implementation ("androidx.credentials:credentials-play-services-auth:1.2.2")
+
+    //ads
+    implementation ("com.google.android.gms:play-services-ads:23.0.0")
+    // coil for image loading from url
+    implementation("io.coil-kt:coil-compose:2.6.0")
 
 }

@@ -1,39 +1,20 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:16:1-41:12
-INJECTED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:16:1-41:12
-INJECTED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:16:1-41:12
-INJECTED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:16:1-41:12
+ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:16:1-49:12
+INJECTED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:16:1-49:12
+INJECTED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:16:1-49:12
+INJECTED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:16:1-49:12
 MERGED from [androidx.navigation:navigation-common:2.7.5] /Users/nirvikbasnet/.gradle/caches/transforms-3/62f92d571e9bba90a71c82fbde079d30/transformed/navigation-common-2.7.5/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime:2.7.5] /Users/nirvikbasnet/.gradle/caches/transforms-3/91bbbf1c3656f835392e295672145638/transformed/navigation-runtime-2.7.5/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common-ktx:2.7.5] /Users/nirvikbasnet/.gradle/caches/transforms-3/19feef4e1a41c2d751ccb552503a85ed/transformed/navigation-common-ktx-2.7.5/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.5] /Users/nirvikbasnet/.gradle/caches/transforms-3/5945f41daef7342c45284c5d72fad38d/transformed/navigation-runtime-ktx-2.7.5/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-compose:2.7.5] /Users/nirvikbasnet/.gradle/caches/transforms-3/7ad5b247daba3c13d410a18c27e9a2b8/transformed/navigation-compose-2.7.5/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.material3:material3:1.1.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/40ad15441a3fdc4f725cc3f1457921ab/transformed/material3-1.1.2/AndroidManifest.xml:17:1-22:12
-MERGED from [io.coil-kt:coil-compose:2.5.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/b8f7ab1347e05d86cbed6236e9f37ee8/transformed/coil-compose-2.5.0/AndroidManifest.xml:2:1-7:12
-MERGED from [io.coil-kt:coil-compose-base:2.5.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/c0816aef4f0f5d0415974dbcfe74ee96/transformed/coil-compose-base-2.5.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/cdb2e5f86041c9f2082359ec133bc656/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/7c112380d626ed658afcd689850795ca/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material:material-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/84c69bc09ffc85c503fa591ddd7e620b/transformed/material-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/ac70c7e66d355eb05c3a86efb7e068f0/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/99d0a116df323535e03d0ccbb389435e/transformed/animation-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/145e050c64fd1a9e6a3730de48f7141e/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/8cff1fc4af8084799b3df7f0f5f51530/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/f00006dfe05900e2fa83623cc8466775/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4dedc9c6fc0e9fc5a486e035ae96d75/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/4182dfd7cd51056f5c242d216c358ed9/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/b3140a769e5d729e897a47b1017a6d9a/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/15ed5daa512f50102db3259dd2d3c1d9/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/e909583ffbbfbc52ea82e4b4aecf821c/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/053813a9946155006234643b51dc72c8/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/85c68fa86704f534ea43694e168d6f13/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/4adf16e4905047d16af7be5e75ad2ff7/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/0969bb45950ddc283e78200ebebe1a3d/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:17:1-23:12
-MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/0887dffed12d57bdaf22869618b62500/transformed/ui-release/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-auth:22.3.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/c136882da0991b6b28365acdfed46082/transformed/firebase-auth-22.3.1/AndroidManifest.xml:17:1-75:12
 MERGED from [androidx.credentials:credentials:1.2.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/7ce3d44113370bbe90d5bbfa18e49eee/transformed/credentials-1.2.2/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.credentials:credentials-play-services-auth:1.2.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/40206bc6c6327bd9302b058ba82b4ddc/transformed/credentials-play-services-auth-1.2.2/AndroidManifest.xml:17:1-44:12
 MERGED from [com.google.android.gms:play-services-auth:21.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/41805f75fa4e25da890184ef8696dae8/transformed/play-services-auth-21.0.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-ads:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/5bd4866935e07da36b335e15e1b161c5/transformed/play-services-ads-23.0.0/AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/190a42038dbd8197dedd3cd03cfec3bd/transformed/recaptcha-18.4.0/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.play:integrity:1.2.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/0354e8b55153c92c5815024698bff343/transformed/integrity-1.2.0/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ba495995d153b566eb14137d528a5524/transformed/firebase-appcheck-interop-17.0.0/AndroidManifest.xml:15:1-25:12
@@ -43,51 +24,87 @@ MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/nirvikbasnet/.gr
 MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/6036f576c424dc682df4b9e93998670c/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/nirvikbasnet/.gradle/caches/transforms-3/1093e2e50d07315c2251edf181fdd3ca/transformed/play-services-auth-base-18.0.10/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/3890ffb5f57ef803fa7e738b16de2032/transformed/play-services-fido-20.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/1550bd252432ee43b0b7c7d93bfaf470/transformed/play-services-appset-16.0.1/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/742c7b0c0c1109493000db859318b7c3/transformed/play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
 MERGED from [com.google.ai.client.generativeai:generativeai:0.2.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/d61d070a0d3c452ca45cb05c81444bc2/transformed/generativeai-0.2.2/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.loader:loader:1.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/559f471ab4fbda33486fe1d32181827c/transformed/loader-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ae0aa3bf4e989a9e00c8155eb852d834/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/e72a967e72b7066ad719535c0dff22ce/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/f2be90976bf9315820fc0e4a94f56db9/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/033b6db7ed0caa4a61d5aaf4715cc892/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/4bd9c955fc873a41542d6f2baaa21165/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/9bc04ef02a7274bfc4b4187317db57c8/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/7c71def505e681a4f72cb02f5e7c8b7f/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
-MERGED from [io.coil-kt:coil:2.5.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/29083d2e51eee6d99b41552efc93cd2e/transformed/coil-2.5.0/AndroidManifest.xml:2:1-7:12
-MERGED from [io.coil-kt:coil-base:2.5.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/4441c02231fcc95b543ca5787186b075/transformed/coil-base-2.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose:2.6.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/96a9d28693b2b20560c8ebfabfc25dd3/transformed/coil-compose-2.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose-base:2.6.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/6eb3453c9493e5c0ec93bd2a016e8c39/transformed/coil-compose-base-2.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/0969bb45950ddc283e78200ebebe1a3d/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:17:1-23:12
+MERGED from [io.coil-kt:coil:2.6.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/2663f60931a99d51be67b8c4dd4b446b/transformed/coil-2.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-base:2.6.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/84c5df1badc57354f5f5bc9c2a880773/transformed/coil-base-2.6.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/989c1551aeaeba704860c67a530e5f27/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/1969a7765f47487e3088d504ee4d2769/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/f9b61a4d4c8946ed472a9cf32e449612/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/fd4a56a4a11d4035a40b661276be90a0/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/bcc913f134ac9873b01b392099d3a70f/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/4450ee9feb5012e87d213f2221df2029/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/8bc97cfc414ecfd042f2e9dcb9e2e227/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/bd3958479f012efd2bc405393051d6e7/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/e6786c7afb4ec7a5828f2abbddd0c887/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/0f916205fa55d645479c8921c1ce6850/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/df23409b0414fa21218c7c64c66ac513/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/032a178510dfbb0b58539e83556eb8a0/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/39d6800d5f93177fa5be91d1200e89ef/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.material:material-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/84c69bc09ffc85c503fa591ddd7e620b/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/cdb2e5f86041c9f2082359ec133bc656/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/7c112380d626ed658afcd689850795ca/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.browser:browser:1.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/e5da821c0a4f2029e9cfeef81b7006ce/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/559f471ab4fbda33486fe1d32181827c/transformed/loader-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/nirvikbasnet/.gradle/caches/transforms-3/261e16d8190812a177f4339a0d3e6705/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/nirvikbasnet/.gradle/caches/transforms-3/6a76acf7f0e33f869baf3d944036a616/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:17:1-95:12
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/8fc1972c51e04a7b5226628f2c4b9c31/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/72d18918b51b72a86bd099aefdfa1c86/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed7b0d2628d73b287e9d463476a9d04f/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/8ed04a62b03ff6a13c3e8734cfbda543/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/333abbc9f28beae432a47ed680451b0d/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/af83da55c0ac032a5fe514b231b34c12/transformed/lifecycle-service-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/8f8d5efeb71c0bdf11e1dfb0196c6d58/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/89501369aab0e2cfc62bfe0353f39840/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/d95f8e5e7d2acc3d5a1a6abd6e377cb2/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/18bda6422de2eb6aa2e79af0c4063af4/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/2a99ed8685e8aef965b12df21b06235a/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.core:core-ktx:1.12.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/5f6f167c88e1a121db78d719c7463c6a/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/a452ebb701785696d44833c850694f28/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/3387b2dec23c678b0715a53b7c3bb0d6/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/e38b701a6d6ccadf59c6e290a79c6144/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.customview:customview:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/6489c5874b240d40572b3feab44786a0/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/e7415d8d342648fa988f0f7db788eb8a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/b994eb6f7a85298f215ef672dfb13bb7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/3387b2dec23c678b0715a53b7c3bb0d6/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core:1.12.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/72bd8ae209cdafdd1af42a89253d1d0f/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/9c2bc79210afc2e72b4cbd5af9695e57/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/55f71278615ff414eb64b36598daa599/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/8774af77687c1cdc389bdfdb5be3b78e/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/033b6db7ed0caa4a61d5aaf4715cc892/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/4bd9c955fc873a41542d6f2baaa21165/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/161c3da37791b299a6dff2caf533d33c/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/5757d8dcdee40ea3eb2fe17ac074f4fb/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/b00ef0fa2d529475a789aa6283b25f39/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/8210ea06ad52ae612227c4a03e122ada/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-base:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/be64119d08ce19ea16cdd2065344711a/transformed/play-services-ads-base-23.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/1032b2067cb243348d30045cdf09d296/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/7c121f90472693b9b105efb8359725c0/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.ump:user-messaging-platform:2.2.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/46b9b264b4b114d7ca7d7e91a2a6a1c6/transformed/user-messaging-platform-2.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/f7e0aaadfb2ddf2836f195fc7dcedfaf/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/6709f6ad0b959622cb8f0dedb54814c5/transformed/play-services-basement-18.2.0/AndroidManifest.xml:16:1-26:12
 MERGED from [androidx.fragment:fragment:1.5.7] /Users/nirvikbasnet/.gradle/caches/transforms-3/bcb4ccd4f91578fe0cc8dbebae96d374/transformed/fragment-1.5.7/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.8.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/a427965754dc9ee2a6d5b0a0429e436f/transformed/activity-1.8.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/3a6bb0d3be7bf69080b65427950ac76f/transformed/activity-ktx-1.8.1/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.activity:activity-compose:1.8.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/4b8e71751f65108ff7dbd6435f4ae047/transformed/activity-compose-1.8.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/f3112031e38096fcabc3ffcce7598844/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/e581c0e86f0b1571fcdfd3be8d3b4f02/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/4ad83ec0beef5e11b4641e7026693c4b/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/d1210708489f2696af8c00243bf7e575/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/326784b91a6fbfc36595996d8e16ef08/transformed/lifecycle-viewmodel-compose-2.6.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/7a0eb204beceafa1fa651d3d367807a9/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/9aba4eeb334040ec54f835409947e004/transformed/googleid-1.1.0/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/c8914b3995c5a1130c527dff6922c606/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/6e34f1203feef0f303b73d987a0917de/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-components:17.1.5] /Users/nirvikbasnet/.gradle/caches/transforms-3/7afa34d6360a8bfe52130235c662b859/transformed/firebase-components-17.1.5/AndroidManifest.xml:15:1-20:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/cedeed2bee3cf533e05923ad920676ab/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f858d428a59d449b9943283e523651cf/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/81e5a02fe7fc2520eb50cb7a8d0ea563/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/effcfae64b1732bdc158317f5a38685c/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/nirvikbasnet/.gradle/caches/transforms-3/4c713a83096f2646cadcd2efd9d26e61/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /Users/nirvikbasnet/.gradle/caches/transforms-3/b143bc53eddb1fd5ad779eaa97f554d1/transformed/exifinterface-1.3.7/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/95ca87815a636a1a20fe05ef91df5338/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/nirvikbasnet/.gradle/caches/transforms-3/69b2b599276f10e173aa8940e1487d96/transformed/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/e7d1f5cf4d2567fc7286172a26ec1bd8/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/d7d18e0555f4c9c0dd46199bc9234439/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/cedeed2bee3cf533e05923ad920676ab/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
 	package
 		INJECTED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -98,13 +115,23 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nirv
 		INJECTED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:16:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:19:5-66
+MERGED from [com.google.firebase:firebase-auth:22.3.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/c136882da0991b6b28365acdfed46082/transformed/firebase-auth-22.3.1/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:22.3.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/c136882da0991b6b28365acdfed46082/transformed/firebase-auth-22.3.1/AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/190a42038dbd8197dedd3cd03cfec3bd/transformed/recaptcha-18.4.0/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/190a42038dbd8197dedd3cd03cfec3bd/transformed/recaptcha-18.4.0/AndroidManifest.xml:7:5-67
+MERGED from [com.google.ai.client.generativeai:generativeai:0.2.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/d61d070a0d3c452ca45cb05c81444bc2/transformed/generativeai-0.2.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.ai.client.generativeai:generativeai:0.2.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/d61d070a0d3c452ca45cb05c81444bc2/transformed/generativeai-0.2.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/7c121f90472693b9b105efb8359725c0/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/7c121f90472693b9b105efb8359725c0/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:19:22-64
 application
-ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:19:5-39:19
-INJECTED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:19:5-39:19
-MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/053813a9946155006234643b51dc72c8/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/053813a9946155006234643b51dc72c8/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/4adf16e4905047d16af7be5e75ad2ff7/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/4adf16e4905047d16af7be5e75ad2ff7/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:22:5-26:19
+ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:21:5-47:19
+INJECTED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:21:5-47:19
 MERGED from [com.google.firebase:firebase-auth:22.3.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/c136882da0991b6b28365acdfed46082/transformed/firebase-auth-22.3.1/AndroidManifest.xml:28:5-73:19
 MERGED from [com.google.firebase:firebase-auth:22.3.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/c136882da0991b6b28365acdfed46082/transformed/firebase-auth-22.3.1/AndroidManifest.xml:28:5-73:19
 MERGED from [androidx.credentials:credentials-play-services-auth:1.2.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/40206bc6c6327bd9302b058ba82b4ddc/transformed/credentials-play-services-auth-1.2.2/AndroidManifest.xml:23:5-42:19
@@ -123,62 +150,90 @@ MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/nirvikbasnet/.gr
 MERGED from [com.google.firebase:firebase-common:20.4.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/b8d103b6da73e972305da7fa5c1cd324/transformed/firebase-common-20.4.2/AndroidManifest.xml:22:5-39:19
 MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/3890ffb5f57ef803fa7e738b16de2032/transformed/play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/3890ffb5f57ef803fa7e738b16de2032/transformed/play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/1550bd252432ee43b0b7c7d93bfaf470/transformed/play-services-appset-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/1550bd252432ee43b0b7c7d93bfaf470/transformed/play-services-appset-16.0.1/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/742c7b0c0c1109493000db859318b7c3/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
 MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/742c7b0c0c1109493000db859318b7c3/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
-MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ae0aa3bf4e989a9e00c8155eb852d834/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ae0aa3bf4e989a9e00c8155eb852d834/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/e72a967e72b7066ad719535c0dff22ce/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/e72a967e72b7066ad719535c0dff22ce/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/0f916205fa55d645479c8921c1ce6850/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/0f916205fa55d645479c8921c1ce6850/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/39d6800d5f93177fa5be91d1200e89ef/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/39d6800d5f93177fa5be91d1200e89ef/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/nirvikbasnet/.gradle/caches/transforms-3/6a76acf7f0e33f869baf3d944036a616/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/nirvikbasnet/.gradle/caches/transforms-3/6a76acf7f0e33f869baf3d944036a616/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:53:5-93:19
+MERGED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:53:5-93:19
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/8fc1972c51e04a7b5226628f2c4b9c31/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/8fc1972c51e04a7b5226628f2c4b9c31/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed7b0d2628d73b287e9d463476a9d04f/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed7b0d2628d73b287e9d463476a9d04f/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.core:core:1.12.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/72bd8ae209cdafdd1af42a89253d1d0f/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
 MERGED from [androidx.core:core:1.12.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/72bd8ae209cdafdd1af42a89253d1d0f/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/b00ef0fa2d529475a789aa6283b25f39/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/b00ef0fa2d529475a789aa6283b25f39/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/8210ea06ad52ae612227c4a03e122ada/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/8210ea06ad52ae612227c4a03e122ada/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/be64119d08ce19ea16cdd2065344711a/transformed/play-services-ads-base-23.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/be64119d08ce19ea16cdd2065344711a/transformed/play-services-ads-base-23.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/1032b2067cb243348d30045cdf09d296/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/1032b2067cb243348d30045cdf09d296/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/f7e0aaadfb2ddf2836f195fc7dcedfaf/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/f7e0aaadfb2ddf2836f195fc7dcedfaf/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/6709f6ad0b959622cb8f0dedb54814c5/transformed/play-services-basement-18.2.0/AndroidManifest.xml:20:5-24:19
 MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/6709f6ad0b959622cb8f0dedb54814c5/transformed/play-services-basement-18.2.0/AndroidManifest.xml:20:5-24:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/81e5a02fe7fc2520eb50cb7a8d0ea563/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/81e5a02fe7fc2520eb50cb7a8d0ea563/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/95ca87815a636a1a20fe05ef91df5338/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/95ca87815a636a1a20fe05ef91df5338/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/nirvikbasnet/.gradle/caches/transforms-3/69b2b599276f10e173aa8940e1487d96/transformed/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/nirvikbasnet/.gradle/caches/transforms-3/69b2b599276f10e173aa8940e1487d96/transformed/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
 	android:extractNativeLibs
 		INJECTED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.12.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/72bd8ae209cdafdd1af42a89253d1d0f/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:26:9-35
+		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:28:9-35
 	android:label
-		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:24:9-41
+		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:26:9-41
 	android:fullBackupContent
-		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:22:9-54
+		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:24:9-54
 	android:roundIcon
-		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:25:9-54
+		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:27:9-54
 	tools:targetApi
-		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:28:9-29
+		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:30:9-29
 	android:icon
-		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:23:9-43
+		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:25:9-43
 	android:allowBackup
-		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:20:9-35
+		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:22:9-35
 	android:theme
-		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:27:9-47
+		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:29:9-47
 	android:dataExtractionRules
-		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:21:9-65
+		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:23:9-65
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:33:9-35:69
+	android:value
+		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:35:13-67
+	android:name
+		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:34:13-69
 activity#com.nirviklabs.aiquills.MainActivity
-ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:29:9-38:20
+ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:36:9-46:20
+	android:windowSoftInputMode
+		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:38:13-56
 	android:exported
-		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:31:13-36
+		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:39:13-36
 	android:name
-		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:30:13-64
+		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:37:13-64
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:33:13-37:29
+ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:41:13-45:29
 action#android.intent.action.MAIN
-ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:34:17-69
+ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:42:17-69
 	android:name
-		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:34:25-66
+		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:42:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:36:17-77
+ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:44:17-77
 	android:name
-		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:36:27-74
+		ADDED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml:44:27-74
 uses-sdk
 INJECTED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml
@@ -195,46 +250,6 @@ MERGED from [androidx.navigation:navigation-compose:2.7.5] /Users/nirvikbasnet/.
 MERGED from [androidx.navigation:navigation-compose:2.7.5] /Users/nirvikbasnet/.gradle/caches/transforms-3/7ad5b247daba3c13d410a18c27e9a2b8/transformed/navigation-compose-2.7.5/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.material3:material3:1.1.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/40ad15441a3fdc4f725cc3f1457921ab/transformed/material3-1.1.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.compose.material3:material3:1.1.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/40ad15441a3fdc4f725cc3f1457921ab/transformed/material3-1.1.2/AndroidManifest.xml:20:5-44
-MERGED from [io.coil-kt:coil-compose:2.5.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/b8f7ab1347e05d86cbed6236e9f37ee8/transformed/coil-compose-2.5.0/AndroidManifest.xml:5:5-44
-MERGED from [io.coil-kt:coil-compose:2.5.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/b8f7ab1347e05d86cbed6236e9f37ee8/transformed/coil-compose-2.5.0/AndroidManifest.xml:5:5-44
-MERGED from [io.coil-kt:coil-compose-base:2.5.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/c0816aef4f0f5d0415974dbcfe74ee96/transformed/coil-compose-base-2.5.0/AndroidManifest.xml:5:5-44
-MERGED from [io.coil-kt:coil-compose-base:2.5.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/c0816aef4f0f5d0415974dbcfe74ee96/transformed/coil-compose-base-2.5.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/cdb2e5f86041c9f2082359ec133bc656/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/cdb2e5f86041c9f2082359ec133bc656/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/7c112380d626ed658afcd689850795ca/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/7c112380d626ed658afcd689850795ca/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/84c69bc09ffc85c503fa591ddd7e620b/transformed/material-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/84c69bc09ffc85c503fa591ddd7e620b/transformed/material-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/ac70c7e66d355eb05c3a86efb7e068f0/transformed/animation-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/ac70c7e66d355eb05c3a86efb7e068f0/transformed/animation-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/99d0a116df323535e03d0ccbb389435e/transformed/animation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/99d0a116df323535e03d0ccbb389435e/transformed/animation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/145e050c64fd1a9e6a3730de48f7141e/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/145e050c64fd1a9e6a3730de48f7141e/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/8cff1fc4af8084799b3df7f0f5f51530/transformed/foundation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/8cff1fc4af8084799b3df7f0f5f51530/transformed/foundation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/f00006dfe05900e2fa83623cc8466775/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/f00006dfe05900e2fa83623cc8466775/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4dedc9c6fc0e9fc5a486e035ae96d75/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4dedc9c6fc0e9fc5a486e035ae96d75/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/4182dfd7cd51056f5c242d216c358ed9/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/4182dfd7cd51056f5c242d216c358ed9/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/b3140a769e5d729e897a47b1017a6d9a/transformed/ui-util-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/b3140a769e5d729e897a47b1017a6d9a/transformed/ui-util-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/15ed5daa512f50102db3259dd2d3c1d9/transformed/ui-text-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/15ed5daa512f50102db3259dd2d3c1d9/transformed/ui-text-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/e909583ffbbfbc52ea82e4b4aecf821c/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/e909583ffbbfbc52ea82e4b4aecf821c/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/053813a9946155006234643b51dc72c8/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/053813a9946155006234643b51dc72c8/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/85c68fa86704f534ea43694e168d6f13/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/85c68fa86704f534ea43694e168d6f13/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/4adf16e4905047d16af7be5e75ad2ff7/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-test-manifest:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/4adf16e4905047d16af7be5e75ad2ff7/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:20:5-44
-MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/0969bb45950ddc283e78200ebebe1a3d/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:21:5-44
-MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/0969bb45950ddc283e78200ebebe1a3d/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/0887dffed12d57bdaf22869618b62500/transformed/ui-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/0887dffed12d57bdaf22869618b62500/transformed/ui-release/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth:22.3.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/c136882da0991b6b28365acdfed46082/transformed/firebase-auth-22.3.1/AndroidManifest.xml:21:5-23:64
 MERGED from [com.google.firebase:firebase-auth:22.3.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/c136882da0991b6b28365acdfed46082/transformed/firebase-auth-22.3.1/AndroidManifest.xml:21:5-23:64
 MERGED from [androidx.credentials:credentials:1.2.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/7ce3d44113370bbe90d5bbfa18e49eee/transformed/credentials-1.2.2/AndroidManifest.xml:5:5-44
@@ -243,6 +258,8 @@ MERGED from [androidx.credentials:credentials-play-services-auth:1.2.2] /Users/n
 MERGED from [androidx.credentials:credentials-play-services-auth:1.2.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/40206bc6c6327bd9302b058ba82b4ddc/transformed/credentials-play-services-auth-1.2.2/AndroidManifest.xml:21:5-44
 MERGED from [com.google.android.gms:play-services-auth:21.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/41805f75fa4e25da890184ef8696dae8/transformed/play-services-auth-21.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth:21.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/41805f75fa4e25da890184ef8696dae8/transformed/play-services-auth-21.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/5bd4866935e07da36b335e15e1b161c5/transformed/play-services-ads-23.0.0/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/5bd4866935e07da36b335e15e1b161c5/transformed/play-services-ads-23.0.0/AndroidManifest.xml:21:5-23:52
 MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/190a42038dbd8197dedd3cd03cfec3bd/transformed/recaptcha-18.4.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/190a42038dbd8197dedd3cd03cfec3bd/transformed/recaptcha-18.4.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.play:integrity:1.2.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/0354e8b55153c92c5815024698bff343/transformed/integrity-1.2.0/AndroidManifest.xml:4:5-44
@@ -261,40 +278,92 @@ MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/nirv
 MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/nirvikbasnet/.gradle/caches/transforms-3/1093e2e50d07315c2251edf181fdd3ca/transformed/play-services-auth-base-18.0.10/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/3890ffb5f57ef803fa7e738b16de2032/transformed/play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/3890ffb5f57ef803fa7e738b16de2032/transformed/play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/1550bd252432ee43b0b7c7d93bfaf470/transformed/play-services-appset-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/1550bd252432ee43b0b7c7d93bfaf470/transformed/play-services-appset-16.0.1/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/742c7b0c0c1109493000db859318b7c3/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
 MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/742c7b0c0c1109493000db859318b7c3/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
 MERGED from [com.google.ai.client.generativeai:generativeai:0.2.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/d61d070a0d3c452ca45cb05c81444bc2/transformed/generativeai-0.2.2/AndroidManifest.xml:20:5-44
 MERGED from [com.google.ai.client.generativeai:generativeai:0.2.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/d61d070a0d3c452ca45cb05c81444bc2/transformed/generativeai-0.2.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/559f471ab4fbda33486fe1d32181827c/transformed/loader-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.loader:loader:1.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/559f471ab4fbda33486fe1d32181827c/transformed/loader-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ae0aa3bf4e989a9e00c8155eb852d834/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ae0aa3bf4e989a9e00c8155eb852d834/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/e72a967e72b7066ad719535c0dff22ce/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/e72a967e72b7066ad719535c0dff22ce/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/f2be90976bf9315820fc0e4a94f56db9/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/f2be90976bf9315820fc0e4a94f56db9/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/033b6db7ed0caa4a61d5aaf4715cc892/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/033b6db7ed0caa4a61d5aaf4715cc892/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/4bd9c955fc873a41542d6f2baaa21165/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/4bd9c955fc873a41542d6f2baaa21165/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/9bc04ef02a7274bfc4b4187317db57c8/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/9bc04ef02a7274bfc4b4187317db57c8/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/7c71def505e681a4f72cb02f5e7c8b7f/transformed/runtime-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/7c71def505e681a4f72cb02f5e7c8b7f/transformed/runtime-release/AndroidManifest.xml:5:5-44
-MERGED from [io.coil-kt:coil:2.5.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/29083d2e51eee6d99b41552efc93cd2e/transformed/coil-2.5.0/AndroidManifest.xml:5:5-44
-MERGED from [io.coil-kt:coil:2.5.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/29083d2e51eee6d99b41552efc93cd2e/transformed/coil-2.5.0/AndroidManifest.xml:5:5-44
-MERGED from [io.coil-kt:coil-base:2.5.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/4441c02231fcc95b543ca5787186b075/transformed/coil-base-2.5.0/AndroidManifest.xml:5:5-44
-MERGED from [io.coil-kt:coil-base:2.5.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/4441c02231fcc95b543ca5787186b075/transformed/coil-base-2.5.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.6.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/96a9d28693b2b20560c8ebfabfc25dd3/transformed/coil-compose-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.6.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/96a9d28693b2b20560c8ebfabfc25dd3/transformed/coil-compose-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.6.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/6eb3453c9493e5c0ec93bd2a016e8c39/transformed/coil-compose-base-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.6.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/6eb3453c9493e5c0ec93bd2a016e8c39/transformed/coil-compose-base-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/0969bb45950ddc283e78200ebebe1a3d/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/0969bb45950ddc283e78200ebebe1a3d/transformed/accompanist-drawablepainter-0.32.0/AndroidManifest.xml:21:5-44
+MERGED from [io.coil-kt:coil:2.6.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/2663f60931a99d51be67b8c4dd4b446b/transformed/coil-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.6.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/2663f60931a99d51be67b8c4dd4b446b/transformed/coil-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.6.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/84c5df1badc57354f5f5bc9c2a880773/transformed/coil-base-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.6.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/84c5df1badc57354f5f5bc9c2a880773/transformed/coil-base-2.6.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/989c1551aeaeba704860c67a530e5f27/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/989c1551aeaeba704860c67a530e5f27/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/1969a7765f47487e3088d504ee4d2769/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/1969a7765f47487e3088d504ee4d2769/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/f9b61a4d4c8946ed472a9cf32e449612/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/f9b61a4d4c8946ed472a9cf32e449612/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/fd4a56a4a11d4035a40b661276be90a0/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/fd4a56a4a11d4035a40b661276be90a0/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/bcc913f134ac9873b01b392099d3a70f/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/bcc913f134ac9873b01b392099d3a70f/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/4450ee9feb5012e87d213f2221df2029/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/4450ee9feb5012e87d213f2221df2029/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/8bc97cfc414ecfd042f2e9dcb9e2e227/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/8bc97cfc414ecfd042f2e9dcb9e2e227/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/bd3958479f012efd2bc405393051d6e7/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/bd3958479f012efd2bc405393051d6e7/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/e6786c7afb4ec7a5828f2abbddd0c887/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/e6786c7afb4ec7a5828f2abbddd0c887/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/0f916205fa55d645479c8921c1ce6850/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/0f916205fa55d645479c8921c1ce6850/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/df23409b0414fa21218c7c64c66ac513/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/df23409b0414fa21218c7c64c66ac513/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/032a178510dfbb0b58539e83556eb8a0/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/032a178510dfbb0b58539e83556eb8a0/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/39d6800d5f93177fa5be91d1200e89ef/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/39d6800d5f93177fa5be91d1200e89ef/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/84c69bc09ffc85c503fa591ddd7e620b/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/84c69bc09ffc85c503fa591ddd7e620b/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/cdb2e5f86041c9f2082359ec133bc656/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/cdb2e5f86041c9f2082359ec133bc656/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/7c112380d626ed658afcd689850795ca/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/7c112380d626ed658afcd689850795ca/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.browser:browser:1.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/e5da821c0a4f2029e9cfeef81b7006ce/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.browser:browser:1.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/e5da821c0a4f2029e9cfeef81b7006ce/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/559f471ab4fbda33486fe1d32181827c/transformed/loader-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/559f471ab4fbda33486fe1d32181827c/transformed/loader-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/nirvikbasnet/.gradle/caches/transforms-3/261e16d8190812a177f4339a0d3e6705/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/nirvikbasnet/.gradle/caches/transforms-3/261e16d8190812a177f4339a0d3e6705/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/nirvikbasnet/.gradle/caches/transforms-3/6a76acf7f0e33f869baf3d944036a616/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/nirvikbasnet/.gradle/caches/transforms-3/6a76acf7f0e33f869baf3d944036a616/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/8fc1972c51e04a7b5226628f2c4b9c31/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/8fc1972c51e04a7b5226628f2c4b9c31/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/72d18918b51b72a86bd099aefdfa1c86/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/72d18918b51b72a86bd099aefdfa1c86/transformed/lifecycle-livedata-core-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed7b0d2628d73b287e9d463476a9d04f/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed7b0d2628d73b287e9d463476a9d04f/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/8ed04a62b03ff6a13c3e8734cfbda543/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/8ed04a62b03ff6a13c3e8734cfbda543/transformed/lifecycle-viewmodel-ktx-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/333abbc9f28beae432a47ed680451b0d/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/333abbc9f28beae432a47ed680451b0d/transformed/lifecycle-viewmodel-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/af83da55c0ac032a5fe514b231b34c12/transformed/lifecycle-service-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/af83da55c0ac032a5fe514b231b34c12/transformed/lifecycle-service-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/8f8d5efeb71c0bdf11e1dfb0196c6d58/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/8f8d5efeb71c0bdf11e1dfb0196c6d58/transformed/lifecycle-runtime-ktx-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/89501369aab0e2cfc62bfe0353f39840/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/89501369aab0e2cfc62bfe0353f39840/transformed/lifecycle-livedata-core-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/d95f8e5e7d2acc3d5a1a6abd6e377cb2/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/d95f8e5e7d2acc3d5a1a6abd6e377cb2/transformed/lifecycle-livedata-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/18bda6422de2eb6aa2e79af0c4063af4/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/18bda6422de2eb6aa2e79af0c4063af4/transformed/lifecycle-viewmodel-savedstate-2.7.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/2a99ed8685e8aef965b12df21b06235a/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
 MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/2a99ed8685e8aef965b12df21b06235a/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
 MERGED from [androidx.core:core-ktx:1.12.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/5f6f167c88e1a121db78d719c7463c6a/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.core:core-ktx:1.12.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/5f6f167c88e1a121db78d719c7463c6a/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/a452ebb701785696d44833c850694f28/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/a452ebb701785696d44833c850694f28/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/3387b2dec23c678b0715a53b7c3bb0d6/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/3387b2dec23c678b0715a53b7c3bb0d6/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/e38b701a6d6ccadf59c6e290a79c6144/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/e38b701a6d6ccadf59c6e290a79c6144/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.customview:customview:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/6489c5874b240d40572b3feab44786a0/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
@@ -303,12 +372,38 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nirvi
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/e7415d8d342648fa988f0f7db788eb8a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/b994eb6f7a85298f215ef672dfb13bb7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/b994eb6f7a85298f215ef672dfb13bb7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/3387b2dec23c678b0715a53b7c3bb0d6/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/3387b2dec23c678b0715a53b7c3bb0d6/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.12.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/72bd8ae209cdafdd1af42a89253d1d0f/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.12.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/72bd8ae209cdafdd1af42a89253d1d0f/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/9c2bc79210afc2e72b4cbd5af9695e57/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/9c2bc79210afc2e72b4cbd5af9695e57/transformed/lifecycle-runtime-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/55f71278615ff414eb64b36598daa599/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/55f71278615ff414eb64b36598daa599/transformed/lifecycle-viewmodel-compose-2.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/8774af77687c1cdc389bdfdb5be3b78e/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/8774af77687c1cdc389bdfdb5be3b78e/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/033b6db7ed0caa4a61d5aaf4715cc892/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/033b6db7ed0caa4a61d5aaf4715cc892/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/4bd9c955fc873a41542d6f2baaa21165/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/4bd9c955fc873a41542d6f2baaa21165/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/161c3da37791b299a6dff2caf533d33c/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/161c3da37791b299a6dff2caf533d33c/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/5757d8dcdee40ea3eb2fe17ac074f4fb/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/5757d8dcdee40ea3eb2fe17ac074f4fb/transformed/runtime-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/b00ef0fa2d529475a789aa6283b25f39/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/b00ef0fa2d529475a789aa6283b25f39/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/8210ea06ad52ae612227c4a03e122ada/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/8210ea06ad52ae612227c4a03e122ada/transformed/play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-base:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/be64119d08ce19ea16cdd2065344711a/transformed/play-services-ads-base-23.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/be64119d08ce19ea16cdd2065344711a/transformed/play-services-ads-base-23.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/1032b2067cb243348d30045cdf09d296/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/1032b2067cb243348d30045cdf09d296/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/7c121f90472693b9b105efb8359725c0/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/7c121f90472693b9b105efb8359725c0/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:2.2.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/46b9b264b4b114d7ca7d7e91a2a6a1c6/transformed/user-messaging-platform-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:2.2.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/46b9b264b4b114d7ca7d7e91a2a6a1c6/transformed/user-messaging-platform-2.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/f7e0aaadfb2ddf2836f195fc7dcedfaf/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/f7e0aaadfb2ddf2836f195fc7dcedfaf/transformed/play-services-measurement-base-20.1.2/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/6709f6ad0b959622cb8f0dedb54814c5/transformed/play-services-basement-18.2.0/AndroidManifest.xml:18:5-43
 MERGED from [com.google.android.gms:play-services-basement:18.2.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/6709f6ad0b959622cb8f0dedb54814c5/transformed/play-services-basement-18.2.0/AndroidManifest.xml:18:5-43
 MERGED from [androidx.fragment:fragment:1.5.7] /Users/nirvikbasnet/.gradle/caches/transforms-3/bcb4ccd4f91578fe0cc8dbebae96d374/transformed/fragment-1.5.7/AndroidManifest.xml:20:5-22:41
@@ -319,18 +414,6 @@ MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/nirvikbasnet/.gradle/c
 MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/3a6bb0d3be7bf69080b65427950ac76f/transformed/activity-ktx-1.8.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.activity:activity-compose:1.8.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/4b8e71751f65108ff7dbd6435f4ae047/transformed/activity-compose-1.8.1/AndroidManifest.xml:5:5-44
 MERGED from [androidx.activity:activity-compose:1.8.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/4b8e71751f65108ff7dbd6435f4ae047/transformed/activity-compose-1.8.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/f3112031e38096fcabc3ffcce7598844/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/f3112031e38096fcabc3ffcce7598844/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/e581c0e86f0b1571fcdfd3be8d3b4f02/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/e581c0e86f0b1571fcdfd3be8d3b4f02/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/4ad83ec0beef5e11b4641e7026693c4b/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/4ad83ec0beef5e11b4641e7026693c4b/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/d1210708489f2696af8c00243bf7e575/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/d1210708489f2696af8c00243bf7e575/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/326784b91a6fbfc36595996d8e16ef08/transformed/lifecycle-viewmodel-compose-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/326784b91a6fbfc36595996d8e16ef08/transformed/lifecycle-viewmodel-compose-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/7a0eb204beceafa1fa651d3d367807a9/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/7a0eb204beceafa1fa651d3d367807a9/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/9aba4eeb334040ec54f835409947e004/transformed/googleid-1.1.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/9aba4eeb334040ec54f835409947e004/transformed/googleid-1.1.0/AndroidManifest.xml:5:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/c8914b3995c5a1130c527dff6922c606/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
@@ -339,48 +422,40 @@ MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/6e34f1203feef0f303b73d987a0917de/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-components:17.1.5] /Users/nirvikbasnet/.gradle/caches/transforms-3/7afa34d6360a8bfe52130235c662b859/transformed/firebase-components-17.1.5/AndroidManifest.xml:18:5-44
 MERGED from [com.google.firebase:firebase-components:17.1.5] /Users/nirvikbasnet/.gradle/caches/transforms-3/7afa34d6360a8bfe52130235c662b859/transformed/firebase-components-17.1.5/AndroidManifest.xml:18:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/cedeed2bee3cf533e05923ad920676ab/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/cedeed2bee3cf533e05923ad920676ab/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f858d428a59d449b9943283e523651cf/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f858d428a59d449b9943283e523651cf/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/81e5a02fe7fc2520eb50cb7a8d0ea563/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/81e5a02fe7fc2520eb50cb7a8d0ea563/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/effcfae64b1732bdc158317f5a38685c/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/effcfae64b1732bdc158317f5a38685c/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/nirvikbasnet/.gradle/caches/transforms-3/4c713a83096f2646cadcd2efd9d26e61/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/nirvikbasnet/.gradle/caches/transforms-3/4c713a83096f2646cadcd2efd9d26e61/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /Users/nirvikbasnet/.gradle/caches/transforms-3/b143bc53eddb1fd5ad779eaa97f554d1/transformed/exifinterface-1.3.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] /Users/nirvikbasnet/.gradle/caches/transforms-3/b143bc53eddb1fd5ad779eaa97f554d1/transformed/exifinterface-1.3.7/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/95ca87815a636a1a20fe05ef91df5338/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/95ca87815a636a1a20fe05ef91df5338/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/nirvikbasnet/.gradle/caches/transforms-3/69b2b599276f10e173aa8940e1487d96/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/nirvikbasnet/.gradle/caches/transforms-3/69b2b599276f10e173aa8940e1487d96/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/e7d1f5cf4d2567fc7286172a26ec1bd8/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/e7d1f5cf4d2567fc7286172a26ec1bd8/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/d7d18e0555f4c9c0dd46199bc9234439/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/d7d18e0555f4c9c0dd46199bc9234439/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/cedeed2bee3cf533e05923ad920676ab/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/cedeed2bee3cf533e05923ad920676ab/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
 	tools:overrideLibrary
 		ADDED from [com.google.firebase:firebase-auth:22.3.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/c136882da0991b6b28365acdfed46082/transformed/firebase-auth-22.3.1/AndroidManifest.xml:23:9-61
 	android:targetSdkVersion
 		INJECTED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/AndroidManifest.xml
-activity#androidx.compose.ui.tooling.PreviewActivity
-ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/053813a9946155006234643b51dc72c8/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
-	android:exported
-		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/053813a9946155006234643b51dc72c8/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
-	android:name
-		ADDED from [androidx.compose.ui:ui-tooling-android:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/053813a9946155006234643b51dc72c8/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
-activity#androidx.activity.ComponentActivity
-ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/4adf16e4905047d16af7be5e75ad2ff7/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:23:9-25:39
-	android:exported
-		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/4adf16e4905047d16af7be5e75ad2ff7/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:25:13-36
-	android:name
-		ADDED from [androidx.compose.ui:ui-test-manifest:1.5.4] /Users/nirvikbasnet/.gradle/caches/transforms-3/4adf16e4905047d16af7be5e75ad2ff7/transformed/ui-test-manifest-1.5.4/AndroidManifest.xml:24:13-63
-uses-permission#android.permission.INTERNET
-ADDED from [com.google.firebase:firebase-auth:22.3.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/c136882da0991b6b28365acdfed46082/transformed/firebase-auth-22.3.1/AndroidManifest.xml:25:5-67
-MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/190a42038dbd8197dedd3cd03cfec3bd/transformed/recaptcha-18.4.0/AndroidManifest.xml:7:5-67
-MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/190a42038dbd8197dedd3cd03cfec3bd/transformed/recaptcha-18.4.0/AndroidManifest.xml:7:5-67
-MERGED from [com.google.ai.client.generativeai:generativeai:0.2.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/d61d070a0d3c452ca45cb05c81444bc2/transformed/generativeai-0.2.2/AndroidManifest.xml:22:5-67
-MERGED from [com.google.ai.client.generativeai:generativeai:0.2.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/d61d070a0d3c452ca45cb05c81444bc2/transformed/generativeai-0.2.2/AndroidManifest.xml:22:5-67
-	android:name
-		ADDED from [com.google.firebase:firebase-auth:22.3.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/c136882da0991b6b28365acdfed46082/transformed/firebase-auth-22.3.1/AndroidManifest.xml:25:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-auth:22.3.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/c136882da0991b6b28365acdfed46082/transformed/firebase-auth-22.3.1/AndroidManifest.xml:26:5-79
 MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/190a42038dbd8197dedd3cd03cfec3bd/transformed/recaptcha-18.4.0/AndroidManifest.xml:8:5-79
 MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/190a42038dbd8197dedd3cd03cfec3bd/transformed/recaptcha-18.4.0/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:25:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/7c121f90472693b9b105efb8359725c0/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/7c121f90472693b9b105efb8359725c0/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:24:5-79
 	android:name
 		ADDED from [com.google.firebase:firebase-auth:22.3.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/c136882da0991b6b28365acdfed46082/transformed/firebase-auth-22.3.1/AndroidManifest.xml:26:22-76
 activity#com.google.firebase.auth.internal.GenericIdpActivity
@@ -537,34 +612,371 @@ ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/nirvikbasne
 		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/742c7b0c0c1109493000db859318b7c3/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/742c7b0c0c1109493000db859318b7c3/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/0f916205fa55d645479c8921c1ce6850/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/0f916205fa55d645479c8921c1ce6850/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/0f916205fa55d645479c8921c1ce6850/transformed/ui-test-manifest-1.6.1/AndroidManifest.xml:24:13-63
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/39d6800d5f93177fa5be91d1200e89ef/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/39d6800d5f93177fa5be91d1200e89ef/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/39d6800d5f93177fa5be91d1200e89ef/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/nirvikbasnet/.gradle/caches/transforms-3/6a76acf7f0e33f869baf3d944036a616/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/nirvikbasnet/.gradle/caches/transforms-3/6a76acf7f0e33f869baf3d944036a616/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/nirvikbasnet/.gradle/caches/transforms-3/6a76acf7f0e33f869baf3d944036a616/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/1032b2067cb243348d30045cdf09d296/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/1032b2067cb243348d30045cdf09d296/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/7c121f90472693b9b105efb8359725c0/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/7c121f90472693b9b105efb8359725c0/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:26:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:27:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:27:22-79
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:28:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:28:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_TOPICS
+ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:29:5-83
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:29:22-80
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:30:5-32:31
+REJECTED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:27:5-81
+	tools:node
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:32:9-28
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:31:9-65
+queries
+ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:35:5-51:15
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:38:9-44:18
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:47:9-49:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:48:13-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:48:21-87
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:56:9-61:43
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:59:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:61:13-40
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:58:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:60:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:57:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:63:9-68:43
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:65:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:66:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:68:13-40
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:67:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:64:13-76
+service#com.google.android.gms.ads.AdService
+ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:70:9-74:43
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:72:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:73:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:74:13-40
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:71:13-64
+activity#com.google.android.gms.ads.OutOfContextTestingActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:76:9-80:43
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:79:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:80:13-40
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:78:13-122
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:77:13-82
+activity#com.google.android.gms.ads.NotificationHandlerActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:81:9-88:43
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:83:13-46
+	android:launchMode
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:85:13-44
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:84:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:88:13-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:87:13-72
+	android:taskAffinity
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:86:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:82:13-82
+property
+ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:90:9-92:62
+	android:resource
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:92:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:23.0.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/AndroidManifest.xml:91:13-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/7c121f90472693b9b105efb8359725c0/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/7c121f90472693b9b105efb8359725c0/transformed/play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:25:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:28:22-74
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ae0aa3bf4e989a9e00c8155eb852d834/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/e72a967e72b7066ad719535c0dff22ce/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/e72a967e72b7066ad719535c0dff22ce/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/8fc1972c51e04a7b5226628f2c4b9c31/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/8fc1972c51e04a7b5226628f2c4b9c31/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed7b0d2628d73b287e9d463476a9d04f/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed7b0d2628d73b287e9d463476a9d04f/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/b00ef0fa2d529475a789aa6283b25f39/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/b00ef0fa2d529475a789aa6283b25f39/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/81e5a02fe7fc2520eb50cb7a8d0ea563/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
 MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/nirvikbasnet/.gradle/caches/transforms-3/81e5a02fe7fc2520eb50cb7a8d0ea563/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ae0aa3bf4e989a9e00c8155eb852d834/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:35:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ae0aa3bf4e989a9e00c8155eb852d834/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:33:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ae0aa3bf4e989a9e00c8155eb852d834/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:34:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ae0aa3bf4e989a9e00c8155eb852d834/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:32:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/AndroidManifest.xml:140:25-85
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ae0aa3bf4e989a9e00c8155eb852d834/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/8fc1972c51e04a7b5226628f2c4b9c31/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ae0aa3bf4e989a9e00c8155eb852d834/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/8fc1972c51e04a7b5226628f2c4b9c31/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ae0aa3bf4e989a9e00c8155eb852d834/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/8fc1972c51e04a7b5226628f2c4b9c31/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/e72a967e72b7066ad719535c0dff22ce/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed7b0d2628d73b287e9d463476a9d04f/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/e72a967e72b7066ad719535c0dff22ce/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed7b0d2628d73b287e9d463476a9d04f/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/nirvikbasnet/.gradle/caches/transforms-3/e72a967e72b7066ad719535c0dff22ce/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/ed7b0d2628d73b287e9d463476a9d04f/transformed/lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.12.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/72bd8ae209cdafdd1af42a89253d1d0f/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
@@ -633,3 +1045,11 @@ ADDED from [com.google.android.gms:play-services-basement:18.2.0] /Users/nirvikb
 		ADDED from [com.google.android.gms:play-services-basement:18.2.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/6709f6ad0b959622cb8f0dedb54814c5/transformed/play-services-basement-18.2.0/AndroidManifest.xml:23:13-66
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:18.2.0] /Users/nirvikbasnet/.gradle/caches/transforms-3/6709f6ad0b959622cb8f0dedb54814c5/transformed/play-services-basement-18.2.0/AndroidManifest.xml:22:13-58
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] /Users/nirvikbasnet/.gradle/caches/transforms-3/69b2b599276f10e173aa8940e1487d96/transformed/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/nirvikbasnet/.gradle/caches/transforms-3/69b2b599276f10e173aa8940e1487d96/transformed/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/nirvikbasnet/.gradle/caches/transforms-3/69b2b599276f10e173aa8940e1487d96/transformed/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/nirvikbasnet/.gradle/caches/transforms-3/69b2b599276f10e173aa8940e1487d96/transformed/room-runtime-2.2.5/AndroidManifest.xml:26:13-74

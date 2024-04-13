@@ -23,6 +23,7 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -37,6 +38,7 @@ import androidx.compose.material.icons.filled.Person
 import androidx.compose.material3.Card
 import androidx.compose.material3.CenterAlignedTopAppBar
 import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.FloatingActionButton
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
@@ -54,6 +56,9 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.nirviklabs.aiquills.ui.theme.Green
+import com.nirviklabs.aiquills.ui.theme.Orange
+import com.nirviklabs.aiquills.util.AdmobBanner
 
 data class MenuItem(
     val routeId: String,
@@ -74,37 +79,42 @@ fun MenuScreen(
         MenuItem("chat", R.string.menu_chat_title, R.string.menu_chat_description,Color.DarkGray,R.drawable.chat)
     )
     Scaffold (
-        topBar = {
-            CenterAlignedTopAppBar(
-                title = { Text("AI Quills") },
-                colors = TopAppBarDefaults.topAppBarColors(
-                    containerColor = MaterialTheme.colorScheme.primary,
-                    titleContentColor = MaterialTheme.colorScheme.onPrimary,
-                    navigationIconContentColor = MaterialTheme.colorScheme.onPrimary,
-                    actionIconContentColor = MaterialTheme.colorScheme.onSecondary
-                ),
-                actions = {
-                    IconButton(onClick = {
-                        onItemClicked("profile")
-                    }) {
-                        Icon(
-                            Icons.Filled.Person,
-                            contentDescription = "Settings"
-                        )
-                    }
-                }
-            )
-        }
-    ) {
-        LazyRow(
-            Modifier
-                .padding(it)
-                .fillMaxWidth()
-        ) {
-            items(menuItems) { menuItem ->
-                Menu(menuItem, onItemClicked)
+        floatingActionButton = { FloatingActionButton(
+            onClick = {
+                onItemClicked("profile")
             }
+        ) {
+            Icon(Icons.Filled.Person,"", tint = Orange)
+        } }
+    ) {
+        Column (
+            modifier = Modifier.fillMaxSize(),
+            verticalArrangement = Arrangement.Center
+
+        ) {
+            Row(
+                modifier =  Modifier
+                    .padding(it)
+                    .padding(top = 10.dp)
+                    .fillMaxWidth(),
+                horizontalArrangement = Arrangement.SpaceEvenly
+            ) {
+                Menu( MenuItem("summarize", R.string.menu_summarize_title, R.string.menu_summarize_description,Color.Blue,R.drawable.programming),onItemClicked)
+                Menu( MenuItem("photo_reasoning", R.string.menu_reason_title, R.string.menu_reason_description,Color.Red,R.drawable.gallery),onItemClicked)
+            }
+            Row(
+                modifier =  Modifier
+                    .padding(top = 30.dp)
+                    .fillMaxWidth(),
+                horizontalArrangement = Arrangement.Center
+            ) {
+                Menu( MenuItem("chat", R.string.menu_chat_title, R.string.menu_chat_description,Color.DarkGray,R.drawable.chat),onItemClicked)
+            }
+
+            Spacer(modifier = Modifier.height(30.dp))
+            AdmobBanner()
         }
+
     }
 }
 
@@ -115,10 +125,8 @@ fun Menu(
 ) {
     Card(
         modifier = Modifier
-            .fillMaxWidth()
-            .width(130.dp)
-            .height(125.dp)
-            .padding(8.dp)
+            .height(150.dp)
+            .width(150.dp)
             .clickable {
                 onItemClicked(menuItem.routeId)
             }
@@ -127,7 +135,8 @@ fun Menu(
         Column(
             modifier = Modifier
                 .background(Brush.horizontalGradient(listOf(menuItem.color, Color.Blue)))
-                .fillMaxSize(),
+                .fillMaxWidth().fillMaxSize()
+               ,
             verticalArrangement = Arrangement.SpaceEvenly,
             horizontalAlignment = Alignment.CenterHorizontally
         ) {

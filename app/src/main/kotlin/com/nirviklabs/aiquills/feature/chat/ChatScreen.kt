@@ -16,19 +16,30 @@
 
 package com.nirviklabs.aiquills.feature.chat
 
+import androidx.compose.foundation.ExperimentalFoundationApi
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.BoxWithConstraints
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.WindowInsets
+import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.ime
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.LazyListState
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.lazy.rememberLazyListState
+import androidx.compose.foundation.relocation.BringIntoViewRequester
+import androidx.compose.foundation.relocation.bringIntoViewRequester
+import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.text.KeyboardOptions
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Send
 import androidx.compose.material3.Card
@@ -42,20 +53,29 @@ import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.focus.FocusRequester
+import androidx.compose.ui.focus.focusRequester
+import androidx.compose.ui.focus.onFocusEvent
+import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.input.KeyboardCapitalization
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.nirviklabs.aiquills.GenerativeViewModelFactory
 import com.nirviklabs.aiquills.R
+import com.nirviklabs.aiquills.util.AdmobBanner
+import com.nirviklabs.aiquills.util.rememberImeState
+import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 
 @Composable
@@ -64,31 +84,38 @@ internal fun ChatRoute(
 ) {
     val chatUiState by chatViewModel.uiState.collectAsState()
     val listState = rememberLazyListState()
-    val coroutineScope = rememberCoroutineScope()
 
-    Scaffold(
-        bottomBar = {
+    val imeState = rememberImeState()
+    val scrollState = rememberScrollState()
+
+    LaunchedEffect(key1 = imeState.value){
+        if(imeState.value){
+            scrollState.scrollTo(scrollState.maxValue)
+        }
+    }
+    Box(modifier = Modifier.fillMaxSize()){
+        Column(modifier = Modifier.fillMaxSize().verticalScroll(scrollState),
+            verticalArrangement = Arrangement.Center,
+        ) {
+            AdmobBanner()
+
             MessageInput(
                 onSendMessage = { inputText ->
                     chatViewModel.sendMessage(inputText)
-                },
-                resetScroll = {
-                    coroutineScope.launch {
-                        listState.scrollToItem(0)
-                    }
                 }
             )
-        }
-    ) { paddingValues ->
-        Column(
-            modifier = Modifier
-                .padding(paddingValues)
-                .fillMaxSize()
-        ) {
-            // Messages List
-            ChatList(chatUiState.messages, listState)
+            Box(
+                modifier = Modifier.weight(1f)
+            ){
+                // Messages List
+                ChatList(chatUiState.messages, listState)
+            }
         }
     }
+
+
+
+
 }
 
 @Composable
@@ -98,9 +125,10 @@ fun ChatList(
 ) {
     LazyColumn(
         reverseLayout = true,
-        state = listState
+        state = listState,
+        userScrollEnabled = true
     ) {
-        items(chatMessages.reversed()) { message ->
+        items(chatMessages) { message ->
             ChatBubbleItem(message)
         }
     }
@@ -166,12 +194,14 @@ fun ChatBubbleItem(
     }
 }
 
+@OptIn(ExperimentalFoundationApi::class)
 @Composable
 fun MessageInput(
-    onSendMessage: (String) -> Unit,
-    resetScroll: () -> Unit = {}
+    onSendMessage: (String) -> Unit
 ) {
     var userMessage by rememberSaveable { mutableStateOf("") }
+    val relocation = remember { BringIntoViewRequester() }
+    val scope = rememberCoroutineScope()
 
     ElevatedCard(
         modifier = Modifier
@@ -193,13 +223,16 @@ fun MessageInput(
                     .align(Alignment.CenterVertically)
                     .fillMaxWidth()
                     .weight(0.85f)
+                    .bringIntoViewRequester(relocation)
+                    .onFocusEvent {
+                        if (it.isFocused) scope.launch { delay(300); relocation.bringIntoView() }
+                    },
             )
             IconButton(
                 onClick = {
                     if (userMessage.isNotBlank()) {
                         onSendMessage(userMessage)
                         userMessage = ""
-                        resetScroll()
                     }
                 },
                 modifier = Modifier
@@ -216,4 +249,5 @@ fun MessageInput(
             }
         }
     }
+
 }

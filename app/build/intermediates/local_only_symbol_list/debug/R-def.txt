@@ -26,6 +26,8 @@ drawable icons8_google_72___
 drawable icons8_google_96___
 drawable photo
 drawable programming
+font rubik_medium
+font rubik_regular
 mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round

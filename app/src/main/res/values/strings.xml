@@ -14,7 +14,7 @@
 -->
 <resources>
     <string name="app_name">AI Quills</string>
-    <string name="action_go">Go</string>
+    <string name="action_go">Generate</string>
     <string name="action_try">Try it</string>
 
     <!-- Menu strings -->
