@@ -1,71 +1,76 @@
-com.nirviklabs.aiquills.app-ui-text-release-0 /Users/nirvikbasnet/.gradle/caches/transforms-3/032a178510dfbb0b58539e83556eb8a0/transformed/ui-text-release/res
-com.nirviklabs.aiquills.app-savedstate-ktx-1.2.1-1 /Users/nirvikbasnet/.gradle/caches/transforms-3/033b6db7ed0caa4a61d5aaf4715cc892/transformed/savedstate-ktx-1.2.1/res
-com.nirviklabs.aiquills.app-ui-test-manifest-1.6.1-2 /Users/nirvikbasnet/.gradle/caches/transforms-3/0f916205fa55d645479c8921c1ce6850/transformed/ui-test-manifest-1.6.1/res
-com.nirviklabs.aiquills.app-runtime-saveable-release-3 /Users/nirvikbasnet/.gradle/caches/transforms-3/161c3da37791b299a6dff2caf533d33c/transformed/runtime-saveable-release/res
-com.nirviklabs.aiquills.app-lifecycle-viewmodel-savedstate-2.7.0-4 /Users/nirvikbasnet/.gradle/caches/transforms-3/18bda6422de2eb6aa2e79af0c4063af4/transformed/lifecycle-viewmodel-savedstate-2.7.0/res
-com.nirviklabs.aiquills.app-animation-release-5 /Users/nirvikbasnet/.gradle/caches/transforms-3/1969a7765f47487e3088d504ee4d2769/transformed/animation-release/res
-com.nirviklabs.aiquills.app-navigation-common-ktx-2.7.5-6 /Users/nirvikbasnet/.gradle/caches/transforms-3/19feef4e1a41c2d751ccb552503a85ed/transformed/navigation-common-ktx-2.7.5/res
-com.nirviklabs.aiquills.app-ads-adservices-java-1.0.0-beta05-7 /Users/nirvikbasnet/.gradle/caches/transforms-3/261e16d8190812a177f4339a0d3e6705/transformed/ads-adservices-java-1.0.0-beta05/res
-com.nirviklabs.aiquills.app-customview-poolingcontainer-1.0.0-8 /Users/nirvikbasnet/.gradle/caches/transforms-3/2a99ed8685e8aef965b12df21b06235a/transformed/customview-poolingcontainer-1.0.0/res
-com.nirviklabs.aiquills.app-lifecycle-viewmodel-2.7.0-9 /Users/nirvikbasnet/.gradle/caches/transforms-3/333abbc9f28beae432a47ed680451b0d/transformed/lifecycle-viewmodel-2.7.0/res
-com.nirviklabs.aiquills.app-ui-tooling-release-10 /Users/nirvikbasnet/.gradle/caches/transforms-3/39d6800d5f93177fa5be91d1200e89ef/transformed/ui-tooling-release/res
-com.nirviklabs.aiquills.app-activity-ktx-1.8.1-11 /Users/nirvikbasnet/.gradle/caches/transforms-3/3a6bb0d3be7bf69080b65427950ac76f/transformed/activity-ktx-1.8.1/res
-com.nirviklabs.aiquills.app-credentials-play-services-auth-1.2.2-12 /Users/nirvikbasnet/.gradle/caches/transforms-3/40206bc6c6327bd9302b058ba82b4ddc/transformed/credentials-play-services-auth-1.2.2/res
-com.nirviklabs.aiquills.app-material3-1.1.2-13 /Users/nirvikbasnet/.gradle/caches/transforms-3/40ad15441a3fdc4f725cc3f1457921ab/transformed/material3-1.1.2/res
-com.nirviklabs.aiquills.app-play-services-auth-21.0.0-14 /Users/nirvikbasnet/.gradle/caches/transforms-3/41805f75fa4e25da890184ef8696dae8/transformed/play-services-auth-21.0.0/res
-com.nirviklabs.aiquills.app-ui-unit-release-15 /Users/nirvikbasnet/.gradle/caches/transforms-3/4450ee9feb5012e87d213f2221df2029/transformed/ui-unit-release/res
-com.nirviklabs.aiquills.app-activity-compose-1.8.1-16 /Users/nirvikbasnet/.gradle/caches/transforms-3/4b8e71751f65108ff7dbd6435f4ae047/transformed/activity-compose-1.8.1/res
-com.nirviklabs.aiquills.app-savedstate-1.2.1-17 /Users/nirvikbasnet/.gradle/caches/transforms-3/4bd9c955fc873a41542d6f2baaa21165/transformed/savedstate-1.2.1/res
-com.nirviklabs.aiquills.app-lifecycle-viewmodel-compose-2.7.0-18 /Users/nirvikbasnet/.gradle/caches/transforms-3/55f71278615ff414eb64b36598daa599/transformed/lifecycle-viewmodel-compose-2.7.0/res
-com.nirviklabs.aiquills.app-runtime-release-19 /Users/nirvikbasnet/.gradle/caches/transforms-3/5757d8dcdee40ea3eb2fe17ac074f4fb/transformed/runtime-release/res
-com.nirviklabs.aiquills.app-navigation-runtime-ktx-2.7.5-20 /Users/nirvikbasnet/.gradle/caches/transforms-3/5945f41daef7342c45284c5d72fad38d/transformed/navigation-runtime-ktx-2.7.5/res
-com.nirviklabs.aiquills.app-play-services-ads-23.0.0-21 /Users/nirvikbasnet/.gradle/caches/transforms-3/5bd4866935e07da36b335e15e1b161c5/transformed/play-services-ads-23.0.0/res
-com.nirviklabs.aiquills.app-core-ktx-1.12.0-22 /Users/nirvikbasnet/.gradle/caches/transforms-3/5f6f167c88e1a121db78d719c7463c6a/transformed/core-ktx-1.12.0/res
-com.nirviklabs.aiquills.app-navigation-common-2.7.5-23 /Users/nirvikbasnet/.gradle/caches/transforms-3/62f92d571e9bba90a71c82fbde079d30/transformed/navigation-common-2.7.5/res
-com.nirviklabs.aiquills.app-play-services-basement-18.2.0-24 /Users/nirvikbasnet/.gradle/caches/transforms-3/6709f6ad0b959622cb8f0dedb54814c5/transformed/play-services-basement-18.2.0/res
-com.nirviklabs.aiquills.app-ads-adservices-1.0.0-beta05-25 /Users/nirvikbasnet/.gradle/caches/transforms-3/6a76acf7f0e33f869baf3d944036a616/transformed/ads-adservices-1.0.0-beta05/res
-com.nirviklabs.aiquills.app-core-1.12.0-26 /Users/nirvikbasnet/.gradle/caches/transforms-3/72bd8ae209cdafdd1af42a89253d1d0f/transformed/core-1.12.0/res
-com.nirviklabs.aiquills.app-lifecycle-livedata-core-ktx-2.7.0-27 /Users/nirvikbasnet/.gradle/caches/transforms-3/72d18918b51b72a86bd099aefdfa1c86/transformed/lifecycle-livedata-core-ktx-2.7.0/res
-com.nirviklabs.aiquills.app-play-services-base-18.0.1-28 /Users/nirvikbasnet/.gradle/caches/transforms-3/742c7b0c0c1109493000db859318b7c3/transformed/play-services-base-18.0.1/res
-com.nirviklabs.aiquills.app-navigation-compose-2.7.5-29 /Users/nirvikbasnet/.gradle/caches/transforms-3/7ad5b247daba3c13d410a18c27e9a2b8/transformed/navigation-compose-2.7.5/res
-com.nirviklabs.aiquills.app-material-icons-core-release-30 /Users/nirvikbasnet/.gradle/caches/transforms-3/7c112380d626ed658afcd689850795ca/transformed/material-icons-core-release/res
-com.nirviklabs.aiquills.app-credentials-1.2.2-31 /Users/nirvikbasnet/.gradle/caches/transforms-3/7ce3d44113370bbe90d5bbfa18e49eee/transformed/credentials-1.2.2/res
-com.nirviklabs.aiquills.app-startup-runtime-1.1.1-32 /Users/nirvikbasnet/.gradle/caches/transforms-3/81e5a02fe7fc2520eb50cb7a8d0ea563/transformed/startup-runtime-1.1.1/res
-com.nirviklabs.aiquills.app-coil-base-2.6.0-33 /Users/nirvikbasnet/.gradle/caches/transforms-3/84c5df1badc57354f5f5bc9c2a880773/transformed/coil-base-2.6.0/res
-com.nirviklabs.aiquills.app-material-release-34 /Users/nirvikbasnet/.gradle/caches/transforms-3/84c69bc09ffc85c503fa591ddd7e620b/transformed/material-release/res
-com.nirviklabs.aiquills.app-ui-release-35 /Users/nirvikbasnet/.gradle/caches/transforms-3/8774af77687c1cdc389bdfdb5be3b78e/transformed/ui-release/res
-com.nirviklabs.aiquills.app-lifecycle-livedata-core-2.7.0-36 /Users/nirvikbasnet/.gradle/caches/transforms-3/89501369aab0e2cfc62bfe0353f39840/transformed/lifecycle-livedata-core-2.7.0/res
-com.nirviklabs.aiquills.app-ui-tooling-preview-release-37 /Users/nirvikbasnet/.gradle/caches/transforms-3/8bc97cfc414ecfd042f2e9dcb9e2e227/transformed/ui-tooling-preview-release/res
-com.nirviklabs.aiquills.app-lifecycle-viewmodel-ktx-2.7.0-38 /Users/nirvikbasnet/.gradle/caches/transforms-3/8ed04a62b03ff6a13c3e8734cfbda543/transformed/lifecycle-viewmodel-ktx-2.7.0/res
-com.nirviklabs.aiquills.app-lifecycle-runtime-ktx-2.7.0-39 /Users/nirvikbasnet/.gradle/caches/transforms-3/8f8d5efeb71c0bdf11e1dfb0196c6d58/transformed/lifecycle-runtime-ktx-2.7.0/res
-com.nirviklabs.aiquills.app-emoji2-1.3.0-40 /Users/nirvikbasnet/.gradle/caches/transforms-3/8fc1972c51e04a7b5226628f2c4b9c31/transformed/emoji2-1.3.0/res
-com.nirviklabs.aiquills.app-navigation-runtime-2.7.5-41 /Users/nirvikbasnet/.gradle/caches/transforms-3/91bbbf1c3656f835392e295672145638/transformed/navigation-runtime-2.7.5/res
-com.nirviklabs.aiquills.app-animation-core-release-42 /Users/nirvikbasnet/.gradle/caches/transforms-3/989c1551aeaeba704860c67a530e5f27/transformed/animation-core-release/res
-com.nirviklabs.aiquills.app-lifecycle-runtime-2.7.0-43 /Users/nirvikbasnet/.gradle/caches/transforms-3/9c2bc79210afc2e72b4cbd5af9695e57/transformed/lifecycle-runtime-2.7.0/res
-com.nirviklabs.aiquills.app-activity-1.8.1-44 /Users/nirvikbasnet/.gradle/caches/transforms-3/a427965754dc9ee2a6d5b0a0429e436f/transformed/activity-1.8.1/res
-com.nirviklabs.aiquills.app-lifecycle-service-2.7.0-45 /Users/nirvikbasnet/.gradle/caches/transforms-3/af83da55c0ac032a5fe514b231b34c12/transformed/lifecycle-service-2.7.0/res
-com.nirviklabs.aiquills.app-profileinstaller-1.3.1-46 /Users/nirvikbasnet/.gradle/caches/transforms-3/b00ef0fa2d529475a789aa6283b25f39/transformed/profileinstaller-1.3.1/res
-com.nirviklabs.aiquills.app-firebase-common-20.4.2-47 /Users/nirvikbasnet/.gradle/caches/transforms-3/b8d103b6da73e972305da7fa5c1cd324/transformed/firebase-common-20.4.2/res
-com.nirviklabs.aiquills.app-fragment-1.5.7-48 /Users/nirvikbasnet/.gradle/caches/transforms-3/bcb4ccd4f91578fe0cc8dbebae96d374/transformed/fragment-1.5.7/res
-com.nirviklabs.aiquills.app-ui-tooling-data-release-49 /Users/nirvikbasnet/.gradle/caches/transforms-3/bcc913f134ac9873b01b392099d3a70f/transformed/ui-tooling-data-release/res
-com.nirviklabs.aiquills.app-ui-graphics-release-50 /Users/nirvikbasnet/.gradle/caches/transforms-3/bd3958479f012efd2bc405393051d6e7/transformed/ui-graphics-release/res
-com.nirviklabs.aiquills.app-annotation-experimental-1.3.0-51 /Users/nirvikbasnet/.gradle/caches/transforms-3/c8914b3995c5a1130c527dff6922c606/transformed/annotation-experimental-1.3.0/res
-com.nirviklabs.aiquills.app-material-ripple-release-52 /Users/nirvikbasnet/.gradle/caches/transforms-3/cdb2e5f86041c9f2082359ec133bc656/transformed/material-ripple-release/res
-com.nirviklabs.aiquills.app-core-runtime-2.2.0-53 /Users/nirvikbasnet/.gradle/caches/transforms-3/cedeed2bee3cf533e05923ad920676ab/transformed/core-runtime-2.2.0/res
-com.nirviklabs.aiquills.app-lifecycle-livedata-2.7.0-54 /Users/nirvikbasnet/.gradle/caches/transforms-3/d95f8e5e7d2acc3d5a1a6abd6e377cb2/transformed/lifecycle-livedata-2.7.0/res
-com.nirviklabs.aiquills.app-ui-util-release-55 /Users/nirvikbasnet/.gradle/caches/transforms-3/df23409b0414fa21218c7c64c66ac513/transformed/ui-util-release/res
-com.nirviklabs.aiquills.app-appcompat-resources-1.6.1-56 /Users/nirvikbasnet/.gradle/caches/transforms-3/e38b701a6d6ccadf59c6e290a79c6144/transformed/appcompat-resources-1.6.1/res
-com.nirviklabs.aiquills.app-browser-1.4.0-57 /Users/nirvikbasnet/.gradle/caches/transforms-3/e5da821c0a4f2029e9cfeef81b7006ce/transformed/browser-1.4.0/res
-com.nirviklabs.aiquills.app-ui-geometry-release-58 /Users/nirvikbasnet/.gradle/caches/transforms-3/e6786c7afb4ec7a5828f2abbddd0c887/transformed/ui-geometry-release/res
-com.nirviklabs.aiquills.app-work-runtime-2.7.0-59 /Users/nirvikbasnet/.gradle/caches/transforms-3/ed50607ee7fc1d0a1c78d5ed12b6ae4c/transformed/work-runtime-2.7.0/res
-com.nirviklabs.aiquills.app-lifecycle-process-2.7.0-60 /Users/nirvikbasnet/.gradle/caches/transforms-3/ed7b0d2628d73b287e9d463476a9d04f/transformed/lifecycle-process-2.7.0/res
-com.nirviklabs.aiquills.app-play-services-ads-lite-23.0.0-61 /Users/nirvikbasnet/.gradle/caches/transforms-3/f4f81d088b3a84342defb78d9448a8d7/transformed/play-services-ads-lite-23.0.0/res
-com.nirviklabs.aiquills.app-foundation-layout-release-62 /Users/nirvikbasnet/.gradle/caches/transforms-3/f9b61a4d4c8946ed472a9cf32e449612/transformed/foundation-layout-release/res
-com.nirviklabs.aiquills.app-foundation-release-63 /Users/nirvikbasnet/.gradle/caches/transforms-3/fd4a56a4a11d4035a40b661276be90a0/transformed/foundation-release/res
-com.nirviklabs.aiquills.app-res-64 /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/build/generated/res/processDebugGoogleServices
-com.nirviklabs.aiquills.app-resValues-65 /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/build/generated/res/resValues/debug
-com.nirviklabs.aiquills.app-packageDebugResources-66 /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.nirviklabs.aiquills.app-packageDebugResources-67 /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.nirviklabs.aiquills.app-merged_res-68 /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/build/intermediates/merged_res/debug
-com.nirviklabs.aiquills.app-debug-69 /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/debug/res
-com.nirviklabs.aiquills.app-main-70 /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/res
+com.nirviklabs.aiquills.app-credentials-1.2.2-0 /Users/nirvikbasnet/.gradle/caches/transforms-3/049c4a1e4758bde163802413edea09c7/transformed/credentials-1.2.2/res
+com.nirviklabs.aiquills.app-core-1.12.0-1 /Users/nirvikbasnet/.gradle/caches/transforms-3/06cb4a433d5a7a9219b081035de71323/transformed/core-1.12.0/res
+com.nirviklabs.aiquills.app-navigation-common-2.7.5-2 /Users/nirvikbasnet/.gradle/caches/transforms-3/0d374ec1b5527fdfb1ecb08a5efdc57e/transformed/navigation-common-2.7.5/res
+com.nirviklabs.aiquills.app-room-runtime-2.6.1-3 /Users/nirvikbasnet/.gradle/caches/transforms-3/122b0e8505e3547a84b6f69c27c11ebb/transformed/room-runtime-2.6.1/res
+com.nirviklabs.aiquills.app-lifecycle-service-2.7.0-4 /Users/nirvikbasnet/.gradle/caches/transforms-3/12fbe8233fbd2b230d227c83e9ff201c/transformed/lifecycle-service-2.7.0/res
+com.nirviklabs.aiquills.app-lifecycle-process-2.7.0-5 /Users/nirvikbasnet/.gradle/caches/transforms-3/16de369e4030488adb0489766e89e72e/transformed/lifecycle-process-2.7.0/res
+com.nirviklabs.aiquills.app-emoji2-1.3.0-6 /Users/nirvikbasnet/.gradle/caches/transforms-3/1a2f62b3724dde1fdf550c93dc2fdb4e/transformed/emoji2-1.3.0/res
+com.nirviklabs.aiquills.app-customview-poolingcontainer-1.0.0-7 /Users/nirvikbasnet/.gradle/caches/transforms-3/1eb9d4336389ba3dd41e203fb0bb05dc/transformed/customview-poolingcontainer-1.0.0/res
+com.nirviklabs.aiquills.app-ui-util-release-8 /Users/nirvikbasnet/.gradle/caches/transforms-3/278384d1397cf537a1210544e42d620f/transformed/ui-util-release/res
+com.nirviklabs.aiquills.app-sqlite-framework-2.4.0-9 /Users/nirvikbasnet/.gradle/caches/transforms-3/28dd9cf41eb6e65972e280aedbc2111e/transformed/sqlite-framework-2.4.0/res
+com.nirviklabs.aiquills.app-play-services-base-18.0.1-10 /Users/nirvikbasnet/.gradle/caches/transforms-3/2acbd0c41179b49330eb4c4824c15d6c/transformed/play-services-base-18.0.1/res
+com.nirviklabs.aiquills.app-ui-unit-release-11 /Users/nirvikbasnet/.gradle/caches/transforms-3/2b3972571bb3573339ac929af658b1cb/transformed/ui-unit-release/res
+com.nirviklabs.aiquills.app-lifecycle-viewmodel-ktx-2.7.0-12 /Users/nirvikbasnet/.gradle/caches/transforms-3/2bc25be56988408676fbedd217c28fac/transformed/lifecycle-viewmodel-ktx-2.7.0/res
+com.nirviklabs.aiquills.app-lifecycle-livedata-core-ktx-2.7.0-13 /Users/nirvikbasnet/.gradle/caches/transforms-3/2f201887a81e1f29b25f0fcf6fea4aeb/transformed/lifecycle-livedata-core-ktx-2.7.0/res
+com.nirviklabs.aiquills.app-core-ktx-1.12.0-14 /Users/nirvikbasnet/.gradle/caches/transforms-3/30157001f75f81a7aeb52973a83d43a2/transformed/core-ktx-1.12.0/res
+com.nirviklabs.aiquills.app-material-icons-core-release-15 /Users/nirvikbasnet/.gradle/caches/transforms-3/31d819e78b41435fb32723c0eba50235/transformed/material-icons-core-release/res
+com.nirviklabs.aiquills.app-profileinstaller-1.3.1-16 /Users/nirvikbasnet/.gradle/caches/transforms-3/345439c5b580415a410f64a8891c52c5/transformed/profileinstaller-1.3.1/res
+com.nirviklabs.aiquills.app-runtime-livedata-1.6.5-17 /Users/nirvikbasnet/.gradle/caches/transforms-3/44060b2927fe04c1f558cd90b6b91336/transformed/runtime-livedata-1.6.5/res
+com.nirviklabs.aiquills.app-play-services-ads-lite-23.0.0-18 /Users/nirvikbasnet/.gradle/caches/transforms-3/45d4acc9d8a50c8598644027e82984a7/transformed/play-services-ads-lite-23.0.0/res
+com.nirviklabs.aiquills.app-annotation-experimental-1.3.0-19 /Users/nirvikbasnet/.gradle/caches/transforms-3/473f4579cb7e95059242a71c78785ed2/transformed/annotation-experimental-1.3.0/res
+com.nirviklabs.aiquills.app-ui-tooling-data-release-20 /Users/nirvikbasnet/.gradle/caches/transforms-3/4f42986d39ee6de7efcc4afee28aa3f6/transformed/ui-tooling-data-release/res
+com.nirviklabs.aiquills.app-ui-tooling-release-21 /Users/nirvikbasnet/.gradle/caches/transforms-3/4fc4c1d5bb0dde0328f6cd146f08a0b5/transformed/ui-tooling-release/res
+com.nirviklabs.aiquills.app-activity-compose-1.8.2-22 /Users/nirvikbasnet/.gradle/caches/transforms-3/56f81739c806afb32a995a704732076f/transformed/activity-compose-1.8.2/res
+com.nirviklabs.aiquills.app-navigation-common-ktx-2.7.5-23 /Users/nirvikbasnet/.gradle/caches/transforms-3/582b0ca394ab49d63f8189d2513ed384/transformed/navigation-common-ktx-2.7.5/res
+com.nirviklabs.aiquills.app-ui-text-release-24 /Users/nirvikbasnet/.gradle/caches/transforms-3/58f98df9b72b862eeb23c39d7a95ce63/transformed/ui-text-release/res
+com.nirviklabs.aiquills.app-sqlite-2.4.0-25 /Users/nirvikbasnet/.gradle/caches/transforms-3/591dd22ea9f449f3887d6d2b90657ee9/transformed/sqlite-2.4.0/res
+com.nirviklabs.aiquills.app-activity-ktx-1.8.2-26 /Users/nirvikbasnet/.gradle/caches/transforms-3/5a10bf1ce12edf13eb6a5492016418b7/transformed/activity-ktx-1.8.2/res
+com.nirviklabs.aiquills.app-ui-graphics-release-27 /Users/nirvikbasnet/.gradle/caches/transforms-3/5c3501db0c7c15913f835c933c89c8c1/transformed/ui-graphics-release/res
+com.nirviklabs.aiquills.app-ads-adservices-java-1.0.0-beta05-28 /Users/nirvikbasnet/.gradle/caches/transforms-3/610f77ab81d1d27ee6d50e5e9b6cb3c4/transformed/ads-adservices-java-1.0.0-beta05/res
+com.nirviklabs.aiquills.app-startup-runtime-1.1.1-29 /Users/nirvikbasnet/.gradle/caches/transforms-3/631be86c053a8ed842cb9b1b4a7b6cd6/transformed/startup-runtime-1.1.1/res
+com.nirviklabs.aiquills.app-ui-geometry-release-30 /Users/nirvikbasnet/.gradle/caches/transforms-3/671de188a5e9681fcabee5e40fca8f03/transformed/ui-geometry-release/res
+com.nirviklabs.aiquills.app-lifecycle-viewmodel-compose-2.7.0-31 /Users/nirvikbasnet/.gradle/caches/transforms-3/6b0d84570153eecc4102549000cf1585/transformed/lifecycle-viewmodel-compose-2.7.0/res
+com.nirviklabs.aiquills.app-ui-tooling-preview-release-32 /Users/nirvikbasnet/.gradle/caches/transforms-3/7d58bc75ddab81a9848c24c296078b11/transformed/ui-tooling-preview-release/res
+com.nirviklabs.aiquills.app-ads-adservices-1.0.0-beta05-33 /Users/nirvikbasnet/.gradle/caches/transforms-3/84588fc1579e717966f3905f6c7014b1/transformed/ads-adservices-1.0.0-beta05/res
+com.nirviklabs.aiquills.app-runtime-release-34 /Users/nirvikbasnet/.gradle/caches/transforms-3/84a56ebaaf3cb568cc5455a7bd60d4ad/transformed/runtime-release/res
+com.nirviklabs.aiquills.app-browser-1.4.0-35 /Users/nirvikbasnet/.gradle/caches/transforms-3/84c7f83c79ae14c4bda579648a1e2f3c/transformed/browser-1.4.0/res
+com.nirviklabs.aiquills.app-material-ripple-release-36 /Users/nirvikbasnet/.gradle/caches/transforms-3/8ec0d3760e833290761af97ab7f81979/transformed/material-ripple-release/res
+com.nirviklabs.aiquills.app-animation-core-release-37 /Users/nirvikbasnet/.gradle/caches/transforms-3/92b536310502bcb8b3dd4cadb2e10526/transformed/animation-core-release/res
+com.nirviklabs.aiquills.app-navigation-compose-2.7.5-38 /Users/nirvikbasnet/.gradle/caches/transforms-3/967a93089d355d97b6817137a2451983/transformed/navigation-compose-2.7.5/res
+com.nirviklabs.aiquills.app-lifecycle-viewmodel-2.7.0-39 /Users/nirvikbasnet/.gradle/caches/transforms-3/9ce216bb1d8d48f6c5ddcfab982fbe5f/transformed/lifecycle-viewmodel-2.7.0/res
+com.nirviklabs.aiquills.app-coil-base-2.6.0-40 /Users/nirvikbasnet/.gradle/caches/transforms-3/9e25d552a356d4732e62118ffe56612a/transformed/coil-base-2.6.0/res
+com.nirviklabs.aiquills.app-animation-release-41 /Users/nirvikbasnet/.gradle/caches/transforms-3/9ea0ab90f6a39c2cf750e7cda70935d2/transformed/animation-release/res
+com.nirviklabs.aiquills.app-core-runtime-2.2.0-42 /Users/nirvikbasnet/.gradle/caches/transforms-3/9ebd6f97555f258c89b2b7e64cafac54/transformed/core-runtime-2.2.0/res
+com.nirviklabs.aiquills.app-play-services-auth-21.0.0-43 /Users/nirvikbasnet/.gradle/caches/transforms-3/a3277db22b4741eb496aa8c0a43741e3/transformed/play-services-auth-21.0.0/res
+com.nirviklabs.aiquills.app-foundation-release-44 /Users/nirvikbasnet/.gradle/caches/transforms-3/ac3c9dc4e1fc1a434d442999f9abac97/transformed/foundation-release/res
+com.nirviklabs.aiquills.app-lifecycle-runtime-2.7.0-45 /Users/nirvikbasnet/.gradle/caches/transforms-3/b2116db5b79564625818c2232e11a7da/transformed/lifecycle-runtime-2.7.0/res
+com.nirviklabs.aiquills.app-credentials-play-services-auth-1.2.2-46 /Users/nirvikbasnet/.gradle/caches/transforms-3/b5a6862931bec958a3442e2513903108/transformed/credentials-play-services-auth-1.2.2/res
+com.nirviklabs.aiquills.app-savedstate-ktx-1.2.1-47 /Users/nirvikbasnet/.gradle/caches/transforms-3/b667f1146616d0f587f6e55bb868ea6a/transformed/savedstate-ktx-1.2.1/res
+com.nirviklabs.aiquills.app-ui-test-manifest-1.6.1-48 /Users/nirvikbasnet/.gradle/caches/transforms-3/b78f18f1f99ea55ea6fb63752c133ef2/transformed/ui-test-manifest-1.6.1/res
+com.nirviklabs.aiquills.app-work-runtime-2.7.0-49 /Users/nirvikbasnet/.gradle/caches/transforms-3/bee205251b1f376fc73c6d0eaab598c3/transformed/work-runtime-2.7.0/res
+com.nirviklabs.aiquills.app-play-services-basement-18.2.0-50 /Users/nirvikbasnet/.gradle/caches/transforms-3/bf6948c1ccbe79619ee846849c6741a8/transformed/play-services-basement-18.2.0/res
+com.nirviklabs.aiquills.app-material3-1.1.2-51 /Users/nirvikbasnet/.gradle/caches/transforms-3/c5515a8e85f0ef7480d13ad0950c6226/transformed/material3-1.1.2/res
+com.nirviklabs.aiquills.app-appcompat-resources-1.6.1-52 /Users/nirvikbasnet/.gradle/caches/transforms-3/c652b7e06b1ddcff33982512043787cd/transformed/appcompat-resources-1.6.1/res
+com.nirviklabs.aiquills.app-navigation-runtime-2.7.5-53 /Users/nirvikbasnet/.gradle/caches/transforms-3/c8279d0b837f8876175f646771d0a186/transformed/navigation-runtime-2.7.5/res
+com.nirviklabs.aiquills.app-play-services-ads-23.0.0-54 /Users/nirvikbasnet/.gradle/caches/transforms-3/c9ad7914160df2705fedf946dae9425c/transformed/play-services-ads-23.0.0/res
+com.nirviklabs.aiquills.app-material-release-55 /Users/nirvikbasnet/.gradle/caches/transforms-3/cc34ef8b456178f36c3ca52f4984f07c/transformed/material-release/res
+com.nirviklabs.aiquills.app-lifecycle-viewmodel-savedstate-2.7.0-56 /Users/nirvikbasnet/.gradle/caches/transforms-3/cdaca65edbf047c1c608bfa6ce6a9575/transformed/lifecycle-viewmodel-savedstate-2.7.0/res
+com.nirviklabs.aiquills.app-firebase-common-20.4.2-57 /Users/nirvikbasnet/.gradle/caches/transforms-3/d68d8a819dd03e9b98bc0f156f7813c2/transformed/firebase-common-20.4.2/res
+com.nirviklabs.aiquills.app-lifecycle-livedata-core-2.7.0-58 /Users/nirvikbasnet/.gradle/caches/transforms-3/dadcc76a978715572ef036044675d496/transformed/lifecycle-livedata-core-2.7.0/res
+com.nirviklabs.aiquills.app-ui-release-59 /Users/nirvikbasnet/.gradle/caches/transforms-3/db059408e40790f51bf96531ef9c8326/transformed/ui-release/res
+com.nirviklabs.aiquills.app-lifecycle-livedata-ktx-2.7.0-60 /Users/nirvikbasnet/.gradle/caches/transforms-3/e0fe19c9a494b37727d021822b186f3f/transformed/lifecycle-livedata-ktx-2.7.0/res
+com.nirviklabs.aiquills.app-lifecycle-livedata-2.7.0-61 /Users/nirvikbasnet/.gradle/caches/transforms-3/e13d3e168101c11a3432d4a149e7fb23/transformed/lifecycle-livedata-2.7.0/res
+com.nirviklabs.aiquills.app-navigation-runtime-ktx-2.7.5-62 /Users/nirvikbasnet/.gradle/caches/transforms-3/e3db6cbb9546c4b681a8edf4ac36dd0c/transformed/navigation-runtime-ktx-2.7.5/res
+com.nirviklabs.aiquills.app-lifecycle-runtime-ktx-2.7.0-63 /Users/nirvikbasnet/.gradle/caches/transforms-3/e6845e5cfab7d07db48fcb4317f3c820/transformed/lifecycle-runtime-ktx-2.7.0/res
+com.nirviklabs.aiquills.app-runtime-saveable-release-64 /Users/nirvikbasnet/.gradle/caches/transforms-3/e80161087b61aac4d8b6217ef46b3b20/transformed/runtime-saveable-release/res
+com.nirviklabs.aiquills.app-savedstate-1.2.1-65 /Users/nirvikbasnet/.gradle/caches/transforms-3/f635d9b25172aa1ab29d0d3bfe64cccd/transformed/savedstate-1.2.1/res
+com.nirviklabs.aiquills.app-foundation-layout-release-66 /Users/nirvikbasnet/.gradle/caches/transforms-3/f715736b5a39013b599a13cf3c851aab/transformed/foundation-layout-release/res
+com.nirviklabs.aiquills.app-activity-1.8.2-67 /Users/nirvikbasnet/.gradle/caches/transforms-3/fb44d571d362132c8df88285d1da28f8/transformed/activity-1.8.2/res
+com.nirviklabs.aiquills.app-fragment-1.5.7-68 /Users/nirvikbasnet/.gradle/caches/transforms-3/fce51d2e14f5d389494b06df8d9cd3a4/transformed/fragment-1.5.7/res
+com.nirviklabs.aiquills.app-res-69 /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/build/generated/res/processDebugGoogleServices
+com.nirviklabs.aiquills.app-resValues-70 /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/build/generated/res/resValues/debug
+com.nirviklabs.aiquills.app-packageDebugResources-71 /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.nirviklabs.aiquills.app-packageDebugResources-72 /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.nirviklabs.aiquills.app-merged_res-73 /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/build/intermediates/merged_res/debug
+com.nirviklabs.aiquills.app-debug-74 /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/debug/res
+com.nirviklabs.aiquills.app-main-75 /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/src/main/res

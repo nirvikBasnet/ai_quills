@@ -28,6 +28,7 @@ val Pink40 = Color(0xFF7D5260)
 
 val Green = Color(0xFF22BB9B)
 val Orange = Color(0xFFFF9012)
+val Gold = Color(0xFFFFD700)
 val PrimaryTextColor = Color(0xFF181818)
 val SecondaryTextColor = Color(0x4C181818)
 val CardBackgroundColor = Color(0xFFE6E6E6)

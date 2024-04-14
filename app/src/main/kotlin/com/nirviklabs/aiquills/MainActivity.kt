@@ -18,8 +18,10 @@ package com.nirviklabs.aiquills
 
 import android.os.Bundle
 import android.view.WindowManager
+import android.widget.Toast
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.activity.viewModels
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
@@ -41,6 +43,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
+import androidx.room.Database
 import com.google.android.gms.ads.MobileAds
 import com.google.firebase.auth.FirebaseAuth
 import com.nirviklabs.aiquills.feature.chat.ChatRoute
@@ -48,11 +51,18 @@ import com.nirviklabs.aiquills.feature.multimodal.PhotoReasoningRoute
 import com.nirviklabs.aiquills.feature.signin.ProfileScreen
 import com.nirviklabs.aiquills.feature.signin.SignInScreen
 import com.nirviklabs.aiquills.feature.text.SummarizeRoute
+import com.nirviklabs.aiquills.token.AppDatabase
+import com.nirviklabs.aiquills.token.TokenRepository
+import com.nirviklabs.aiquills.token.TokenViewModel
 import com.nirviklabs.aiquills.ui.theme.GenerativeAISample
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class MainActivity : ComponentActivity() {
 
-    @OptIn(ExperimentalMaterial3Api::class)
+    val viewModel: TokenViewModel by viewModels()
+
+        @OptIn(ExperimentalMaterial3Api::class)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
@@ -60,6 +70,10 @@ class MainActivity : ComponentActivity() {
         MobileAds.initialize(this) {}
 
         setContent {
+
+
+
+
             GenerativeAISample {
                 // A surface container using the 'background' color from the theme
 
@@ -69,6 +83,7 @@ class MainActivity : ComponentActivity() {
                         color = MaterialTheme.colorScheme.background
                     ) {
                         val navController = rememberNavController()
+
 
                         NavHost(navController = navController, startDestination = "signin") {
                             composable("menu") {
@@ -100,7 +115,7 @@ class MainActivity : ComponentActivity() {
                             composable("profile"){
                                 ProfileScreen(activity = this@MainActivity,onItemClicked = { routeId ->
                                     navController.navigate(routeId)
-                                })
+                                },viewModel)
                             }
                         }
                     }
@@ -110,3 +125,5 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+
+

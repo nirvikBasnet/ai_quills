@@ -19,6 +19,8 @@ plugins {
     id("org.jetbrains.kotlin.android")
     id("com.google.android.libraries.mapsplatform.secrets-gradle-plugin")
     id("com.google.gms.google-services")
+    id ("kotlin-kapt")
+    id ("com.google.dagger.hilt.android")
 }
 
 android {
@@ -56,8 +58,8 @@ android {
 dependencies {
     implementation("androidx.core:core-ktx:1.9.0")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.2")
-    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2")
-    implementation("androidx.activity:activity-compose:1.8.1")
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0")
+    implementation("androidx.activity:activity-compose:1.8.2")
     implementation("androidx.navigation:navigation-compose:2.7.5")
 
     implementation(platform("androidx.compose:compose-bom:2023.10.01"))
@@ -89,5 +91,23 @@ dependencies {
     implementation ("com.google.android.gms:play-services-ads:23.0.0")
     // coil for image loading from url
     implementation("io.coil-kt:coil-compose:2.6.0")
+
+    //ROOM
+    implementation ("androidx.room:room-runtime:2.6.1")
+//    annotationProcessor ("androidx.room:room-compiler:2.6.1")
+    kapt ("androidx.room:room-compiler:2.6.1")
+
+
+    //viewmodel
+    implementation ("androidx.lifecycle:lifecycle-viewmodel-ktx:2.7.0")
+    implementation ("androidx.lifecycle:lifecycle-livedata-ktx:2.7.0")
+
+    implementation ("com.google.dagger:hilt-android:2.46")
+    kapt ("com.google.dagger:hilt-compiler:2.46")
+
+    implementation ("androidx.compose.runtime:runtime-livedata:1.6.5")
+
+
+
 
 }

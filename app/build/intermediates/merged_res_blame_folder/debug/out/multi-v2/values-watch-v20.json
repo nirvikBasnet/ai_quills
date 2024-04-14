@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.nirviklabs.aiquills.app-mergeDebugResources-67:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.nirviklabs.aiquills.app-mergeDebugResources-72:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/Users/nirvikbasnet/.gradle/caches/transforms-3/41805f75fa4e25da890184ef8696dae8/transformed/play-services-auth-21.0.0/res/values-watch-v20/values.xml",
+                    "source": "/Users/nirvikbasnet/.gradle/caches/transforms-3/a3277db22b4741eb496aa8c0a43741e3/transformed/play-services-auth-21.0.0/res/values-watch-v20/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",

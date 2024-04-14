@@ -32,10 +32,13 @@ import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.Icon
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.livedata.observeAsState
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.RectangleShape
 import androidx.compose.ui.graphics.painter.Painter
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.res.painterResource
@@ -44,6 +47,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.lifecycle.viewmodel.compose.viewModel
 import coil.compose.AsyncImage
 import coil.compose.rememberImagePainter
 import coil.transform.CircleCropTransformation
@@ -52,7 +56,9 @@ import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.FirebaseUser
 import com.google.firebase.auth.auth
 import com.nirviklabs.aiquills.R
+import com.nirviklabs.aiquills.token.TokenViewModel
 import com.nirviklabs.aiquills.ui.theme.CardBackgroundColor
+import com.nirviklabs.aiquills.ui.theme.Gold
 import com.nirviklabs.aiquills.ui.theme.Green
 import com.nirviklabs.aiquills.ui.theme.Orange
 import com.nirviklabs.aiquills.ui.theme.PrimaryTextColor
@@ -66,7 +72,8 @@ import kotlinx.coroutines.launch
 @Composable
 fun ProfileScreen(
     activity: Activity,
-    onItemClicked : (String) -> Unit = {}
+    onItemClicked : (String) -> Unit = {},
+    viewModel: TokenViewModel
 ){
 
     val user = FirebaseAuth.getInstance().currentUser
@@ -90,7 +97,7 @@ fun ProfileScreen(
 
         Box(){
             if (user != null) {
-                ProfileContent(user, activity)
+                ProfileContent(user, activity,viewModel)
             }
         }
 
@@ -98,8 +105,13 @@ fun ProfileScreen(
         Button(onClick = {
             Firebase.auth.signOut()
             onItemClicked("signin")
-        }){
-            Text(text = "Sign Out")
+        },
+            colors = ButtonDefaults.buttonColors(
+                containerColor = Color.Red
+            ),
+            shape = RectangleShape
+         ){
+            Text(text = "Sign Out", color = Color.White)
         }
 
     }
@@ -131,25 +143,42 @@ fun ProfileImage(url: String?, contentDescription: String) {
     )
 }
 @Composable
-fun ProfileContent(user : FirebaseUser, activity: Activity) {
+fun ProfileContent(user : FirebaseUser, activity: Activity,viewModel: TokenViewModel) {
+    val token by viewModel.token.observeAsState()
+    viewModel.fetchToken()
     Column(
         modifier = Modifier
             .padding(16.dp),
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.spacedBy(16.dp)
     ) {
+
+
        // ProfileImage(image = ImageVector.vectorResource(id = R.drawable.photo))
         InformationCard(title = "Display Name", information = user.displayName.toString())
         InformationCard(title = "Email", information = user.email.toString())
 
-        InformationCard(title = "Tokens", information = "Unlimited")
-        Button(onClick = {
-            CoroutineScope(Dispatchers.Main).launch {
-                rewardedAds(activity)
+        Row (
+            horizontalArrangement = Arrangement.spacedBy(5.dp),
+            verticalAlignment = Alignment.CenterVertically
+        ){
+            Box(modifier = Modifier.weight(0.5f)){
+                InformationCard(title = "Tokens", information = token.toString())
             }
-        }){
-            Text(text = "Earn Token")
+
+            Box(modifier = Modifier.weight(0.5f),){
+                Button(onClick = {
+                    CoroutineScope(Dispatchers.Main).launch {
+                        rewardedAds(activity,viewModel)
+                    }
+                }, colors = ButtonDefaults.buttonColors(Gold), shape = RectangleShape){
+                    Text("Earn Reward", color = Color.White)
+                }
+            }
+
+
         }
+
         InformationCard(title = "Account Type", information = "Free")
 
     }
@@ -239,7 +268,7 @@ fun DefaultButton(
             .fillMaxWidth()
             .height(54.dp),
         shape = RoundedCornerShape(16.dp),
-        colors = ButtonDefaults.buttonColors(containerColor = Green),
+        colors = ButtonDefaults.buttonColors(containerColor = Gold),
         elevation = ButtonDefaults.buttonElevation(0.dp)
     ) {
         Text(
@@ -266,4 +295,5 @@ fun TextButton(
         modifier = Modifier.clickable { onClick }
     )
 }
+
 
