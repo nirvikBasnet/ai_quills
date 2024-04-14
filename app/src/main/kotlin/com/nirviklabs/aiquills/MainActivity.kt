@@ -37,6 +37,7 @@ import androidx.compose.material3.TopAppBarColors
 import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.platform.LocalContext
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
@@ -54,6 +55,7 @@ class MainActivity : ComponentActivity() {
     @OptIn(ExperimentalMaterial3Api::class)
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
 
         MobileAds.initialize(this) {}
 
@@ -96,7 +98,7 @@ class MainActivity : ComponentActivity() {
 
                             }
                             composable("profile"){
-                                ProfileScreen(onItemClicked = { routeId ->
+                                ProfileScreen(activity = this@MainActivity,onItemClicked = { routeId ->
                                     navController.navigate(routeId)
                                 })
                             }

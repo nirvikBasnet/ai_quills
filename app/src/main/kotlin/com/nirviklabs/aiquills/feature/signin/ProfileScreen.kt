@@ -1,5 +1,7 @@
 package com.nirviklabs.aiquills.feature.signin
 
+import android.app.Activity
+import android.content.Context
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
@@ -56,9 +58,14 @@ import com.nirviklabs.aiquills.ui.theme.Orange
 import com.nirviklabs.aiquills.ui.theme.PrimaryTextColor
 import com.nirviklabs.aiquills.ui.theme.Rubik
 import com.nirviklabs.aiquills.ui.theme.SecondaryTextColor
+import com.nirviklabs.aiquills.util.rewardedAds
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
 
 @Composable
 fun ProfileScreen(
+    activity: Activity,
     onItemClicked : (String) -> Unit = {}
 ){
 
@@ -83,7 +90,7 @@ fun ProfileScreen(
 
         Box(){
             if (user != null) {
-                ProfileContent(user)
+                ProfileContent(user, activity)
             }
         }
 
@@ -124,7 +131,7 @@ fun ProfileImage(url: String?, contentDescription: String) {
     )
 }
 @Composable
-fun ProfileContent(user : FirebaseUser) {
+fun ProfileContent(user : FirebaseUser, activity: Activity) {
     Column(
         modifier = Modifier
             .padding(16.dp),
@@ -136,6 +143,13 @@ fun ProfileContent(user : FirebaseUser) {
         InformationCard(title = "Email", information = user.email.toString())
 
         InformationCard(title = "Tokens", information = "Unlimited")
+        Button(onClick = {
+            CoroutineScope(Dispatchers.Main).launch {
+                rewardedAds(activity)
+            }
+        }){
+            Text(text = "Earn Token")
+        }
         InformationCard(title = "Account Type", information = "Free")
 
     }

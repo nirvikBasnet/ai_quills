@@ -1,0 +1,35 @@
+com.nirviklabs.aiquills.test.app-ui-text-release-0 /Users/nirvikbasnet/.gradle/caches/transforms-3/032a178510dfbb0b58539e83556eb8a0/transformed/ui-text-release/res
+com.nirviklabs.aiquills.test.app-savedstate-ktx-1.2.1-1 /Users/nirvikbasnet/.gradle/caches/transforms-3/033b6db7ed0caa4a61d5aaf4715cc892/transformed/savedstate-ktx-1.2.1/res
+com.nirviklabs.aiquills.test.app-runtime-saveable-release-2 /Users/nirvikbasnet/.gradle/caches/transforms-3/161c3da37791b299a6dff2caf533d33c/transformed/runtime-saveable-release/res
+com.nirviklabs.aiquills.test.app-lifecycle-viewmodel-savedstate-2.7.0-3 /Users/nirvikbasnet/.gradle/caches/transforms-3/18bda6422de2eb6aa2e79af0c4063af4/transformed/lifecycle-viewmodel-savedstate-2.7.0/res
+com.nirviklabs.aiquills.test.app-customview-poolingcontainer-1.0.0-4 /Users/nirvikbasnet/.gradle/caches/transforms-3/2a99ed8685e8aef965b12df21b06235a/transformed/customview-poolingcontainer-1.0.0/res
+com.nirviklabs.aiquills.test.app-lifecycle-viewmodel-2.7.0-5 /Users/nirvikbasnet/.gradle/caches/transforms-3/333abbc9f28beae432a47ed680451b0d/transformed/lifecycle-viewmodel-2.7.0/res
+com.nirviklabs.aiquills.test.app-activity-ktx-1.8.1-6 /Users/nirvikbasnet/.gradle/caches/transforms-3/3a6bb0d3be7bf69080b65427950ac76f/transformed/activity-ktx-1.8.1/res
+com.nirviklabs.aiquills.test.app-ui-unit-release-7 /Users/nirvikbasnet/.gradle/caches/transforms-3/4450ee9feb5012e87d213f2221df2029/transformed/ui-unit-release/res
+com.nirviklabs.aiquills.test.app-activity-compose-1.8.1-8 /Users/nirvikbasnet/.gradle/caches/transforms-3/4b8e71751f65108ff7dbd6435f4ae047/transformed/activity-compose-1.8.1/res
+com.nirviklabs.aiquills.test.app-savedstate-1.2.1-9 /Users/nirvikbasnet/.gradle/caches/transforms-3/4bd9c955fc873a41542d6f2baaa21165/transformed/savedstate-1.2.1/res
+com.nirviklabs.aiquills.test.app-ui-test-release-10 /Users/nirvikbasnet/.gradle/caches/transforms-3/4d31dad90b999ed91982483c652e791d/transformed/ui-test-release/res
+com.nirviklabs.aiquills.test.app-runtime-release-11 /Users/nirvikbasnet/.gradle/caches/transforms-3/5757d8dcdee40ea3eb2fe17ac074f4fb/transformed/runtime-release/res
+com.nirviklabs.aiquills.test.app-core-ktx-1.12.0-12 /Users/nirvikbasnet/.gradle/caches/transforms-3/5f6f167c88e1a121db78d719c7463c6a/transformed/core-ktx-1.12.0/res
+com.nirviklabs.aiquills.test.app-core-1.12.0-13 /Users/nirvikbasnet/.gradle/caches/transforms-3/72bd8ae209cdafdd1af42a89253d1d0f/transformed/core-1.12.0/res
+com.nirviklabs.aiquills.test.app-startup-runtime-1.1.1-14 /Users/nirvikbasnet/.gradle/caches/transforms-3/81e5a02fe7fc2520eb50cb7a8d0ea563/transformed/startup-runtime-1.1.1/res
+com.nirviklabs.aiquills.test.app-ui-release-15 /Users/nirvikbasnet/.gradle/caches/transforms-3/8774af77687c1cdc389bdfdb5be3b78e/transformed/ui-release/res
+com.nirviklabs.aiquills.test.app-lifecycle-livedata-core-2.7.0-16 /Users/nirvikbasnet/.gradle/caches/transforms-3/89501369aab0e2cfc62bfe0353f39840/transformed/lifecycle-livedata-core-2.7.0/res
+com.nirviklabs.aiquills.test.app-lifecycle-viewmodel-ktx-2.7.0-17 /Users/nirvikbasnet/.gradle/caches/transforms-3/8ed04a62b03ff6a13c3e8734cfbda543/transformed/lifecycle-viewmodel-ktx-2.7.0/res
+com.nirviklabs.aiquills.test.app-lifecycle-runtime-ktx-2.7.0-18 /Users/nirvikbasnet/.gradle/caches/transforms-3/8f8d5efeb71c0bdf11e1dfb0196c6d58/transformed/lifecycle-runtime-ktx-2.7.0/res
+com.nirviklabs.aiquills.test.app-emoji2-1.3.0-19 /Users/nirvikbasnet/.gradle/caches/transforms-3/8fc1972c51e04a7b5226628f2c4b9c31/transformed/emoji2-1.3.0/res
+com.nirviklabs.aiquills.test.app-lifecycle-runtime-2.7.0-20 /Users/nirvikbasnet/.gradle/caches/transforms-3/9c2bc79210afc2e72b4cbd5af9695e57/transformed/lifecycle-runtime-2.7.0/res
+com.nirviklabs.aiquills.test.app-activity-1.8.1-21 /Users/nirvikbasnet/.gradle/caches/transforms-3/a427965754dc9ee2a6d5b0a0429e436f/transformed/activity-1.8.1/res
+com.nirviklabs.aiquills.test.app-profileinstaller-1.3.1-22 /Users/nirvikbasnet/.gradle/caches/transforms-3/b00ef0fa2d529475a789aa6283b25f39/transformed/profileinstaller-1.3.1/res
+com.nirviklabs.aiquills.test.app-core-1.5.0-23 /Users/nirvikbasnet/.gradle/caches/transforms-3/b3bed1390188ff1ab46b9d52fee19ea8/transformed/core-1.5.0/res
+com.nirviklabs.aiquills.test.app-ui-graphics-release-24 /Users/nirvikbasnet/.gradle/caches/transforms-3/bd3958479f012efd2bc405393051d6e7/transformed/ui-graphics-release/res
+com.nirviklabs.aiquills.test.app-annotation-experimental-1.3.0-25 /Users/nirvikbasnet/.gradle/caches/transforms-3/c8914b3995c5a1130c527dff6922c606/transformed/annotation-experimental-1.3.0/res
+com.nirviklabs.aiquills.test.app-core-runtime-2.2.0-26 /Users/nirvikbasnet/.gradle/caches/transforms-3/cedeed2bee3cf533e05923ad920676ab/transformed/core-runtime-2.2.0/res
+com.nirviklabs.aiquills.test.app-ui-test-junit4-release-27 /Users/nirvikbasnet/.gradle/caches/transforms-3/d934b11dcc21405d0fb060a2c5e8912f/transformed/ui-test-junit4-release/res
+com.nirviklabs.aiquills.test.app-ui-util-release-28 /Users/nirvikbasnet/.gradle/caches/transforms-3/df23409b0414fa21218c7c64c66ac513/transformed/ui-util-release/res
+com.nirviklabs.aiquills.test.app-ui-geometry-release-29 /Users/nirvikbasnet/.gradle/caches/transforms-3/e6786c7afb4ec7a5828f2abbddd0c887/transformed/ui-geometry-release/res
+com.nirviklabs.aiquills.test.app-lifecycle-process-2.7.0-30 /Users/nirvikbasnet/.gradle/caches/transforms-3/ed7b0d2628d73b287e9d463476a9d04f/transformed/lifecycle-process-2.7.0/res
+com.nirviklabs.aiquills.test.app-androidTest-31 /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/build/generated/res/resValues/androidTest/debug
+com.nirviklabs.aiquills.test.app-mergeDebugAndroidTestResources-32 /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.nirviklabs.aiquills.test.app-mergeDebugAndroidTestResources-33 /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.nirviklabs.aiquills.test.app-merged_res-34 /Users/nirvikbasnet/AndroidStudioProjects/AI Quills/app/build/intermediates/merged_res/debugAndroidTest

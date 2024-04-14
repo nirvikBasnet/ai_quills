@@ -84,7 +84,7 @@ fun MenuScreen(
                 onItemClicked("profile")
             }
         ) {
-            Icon(Icons.Filled.Person,"", tint = Orange)
+            Icon(Icons.Filled.Person,"", tint = Color.Blue)
         } }
     ) {
         Column (
